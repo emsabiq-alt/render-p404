@@ -1,11 +1,11 @@
-name: Supertonic TTS (Indonesian F1)
+name: Supertonic TTS (Indonesian)
 
 on:
   workflow_dispatch:
     inputs:
       voice:
-        description: 'Voice F1..F5 / M1..M5 (F1 = suara cewek)'
-        default: 'F1'
+        description: 'Voice F1..F5 / M1..M5 (M2 = suara pria ngebass)'
+        default: 'M2'
 
 permissions:
   contents: write
@@ -72,4 +72,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/audio_supertonic/
           git commit -m "chore: Supertonic ${{ inputs.voice }} VO for 77 scenes [skip ci]" || echo "nothing to commit"
+          git pull --rebase origin main || true
           git push

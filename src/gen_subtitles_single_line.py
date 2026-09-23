@@ -95,6 +95,10 @@ def main():
     for s in d['shots']:
         sid = s['id']
         text = s['narration'].replace('...', ' <breath> ')
+        # em-dash jadi koma supaya jadi batas frasa yang rapi.
+        # ANGKA SENGAJA DIBIARKAN ASLI ("1257") — enak dibaca di layar,
+        # berbeda dari script TTS yang angkanya dieja.
+        text = text.replace('\u2014', ', ').replace('\u2013', ', ')
         text = ' '.join(text.split())
         n, dur = build(sid, text)
         total += n
