@@ -1,0 +1,585 @@
+{
+  "title": "SAMALAS 1257: Monster Lombok yang Mengubah Iklim Dunia",
+  "style": "19th-Century Archival Copperplate Etching, Sepia Lithograph on Aged Parchment, Borderless 16:9",
+  "font_subtitle": "Poppins Bold (700), Strict Lowercase, Single Line, No Box",
+  "camera_character": "Locked-off Static with Micro Ken Burns Slow Push-in (4-6%), Cross-Dissolve 0.8s",
+  "overlay_fx": "Vintage CRT Scanlines 3px + Real Celluloid 35mm Dust and Vertical Film Scratches",
+  "chapters": [
+    {
+      "index": 1,
+      "tag": "1257 M // BABAK I",
+      "title": "JERITAN BABAD LOMBOK",
+      "theme": "Kehancuran Metropolis Kuno Pamatan & Rekaman Daun Lontar",
+      "duration_est": "03:05"
+    },
+    {
+      "index": 2,
+      "tag": "1258 M // BABAK II",
+      "title": "MISTERI ES KUTUB UTARA",
+      "theme": "Buronan 750 Tahun: Jejak Belerang Greenland & Kuburan Massal London",
+      "duration_est": "03:00"
+    },
+    {
+      "index": 3,
+      "tag": "1257 M // BABAK III",
+      "title": "ANATOMI KIAMAT 43 KM",
+      "theme": "Kolom Plinian 43 KM, Runtuhnya Pamatan, & Amblesnya Raksasa 4.200 Meter",
+      "duration_est": "03:15"
+    },
+    {
+      "index": 4,
+      "tag": "1258 M // BABAK IV",
+      "title": "MEMBEKUNYA LANGIT BUMI",
+      "theme": "Tahun Tanpa Musim Panas: Wabah Kelaparan Eropa, Invasi Mongol, & Dinasti Song",
+      "duration_est": "02:50"
+    },
+    {
+      "index": 5,
+      "tag": "1260 M // BABAK V",
+      "title": "FILOSOFI DANAU KEABADIAN",
+      "theme": "Kelahiran Segara Anak, Bayi Magma Barujari, & Pelajaran Stoik dari Keruntuhan",
+      "duration_est": "02:25"
+    }
+  ],
+  "shots": [
+    {
+      "id": "shot_001",
+      "chapter": 1,
+      "duration": 10.8,
+      "narration": "Gunung Samalas meletus mendadak... suaranya menggelegar dahsyat meremukkan langit, menumpahkan batu dan abu yang menghujani seluruh daratan.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Colossal prehistoric stratovolcano violently detonating in the distance, titanic vertical eruption column piercing heavy overcast skies, antique intaglio line etching. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_002",
+      "chapter": 1,
+      "duration": 11.2,
+      "narration": "Rumah-rumah roboh dan tersapu banjir lumpur, kerajaan Pamatan lenyap terkubur, dan ribuan jiwa hanyut ditelan amukan lautan.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Violent rushing lahar mudflow and debris torrent sweeping through ancient tropical river valley, tearing thatched roofs and palm trees, dramatic dark chiaroscuro cross-hatching. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_003",
+      "chapter": 1,
+      "duration": 10.5,
+      "narration": "Selama tujuh hari tujuh malam, matahari mati... daratan Lombok tenggelam dalam kegelapan total yang pekat dan menyesakkan dada.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Apocalyptic pitch-black sky completely choked by volcanic tephra fallout, faint ominous volcanic lightning arcing over jagged silhouette of crumbling mountainside. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_004",
+      "chapter": 1,
+      "duration": 11.8,
+      "narration": "Ini adalah baris tembang puisi dari Babad Lombok, sebuah naskah sakral daun lontar kuno yang ditulis dengan tangan gemetar oleh para pujangga Sasak yang selamat.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Aged dried palm leaf manuscript lontar unrolled on dark rustic wooden table, delicate antique Javanese-Balinese kawi script incised into the leaf, soft flickering candlelight. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_005",
+      "chapter": 1,
+      "duration": 10.2,
+      "narration": "Catatan itu menjadi satu-satunya saksi mata tertulis dari kiamat purba yang pernah melenyapkan sebuah peradaban megah di timur Nusantara.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Extreme close-up macro etching of incised lontar leaf fibers and ancient script lines, vintage botanical and archival record texture, warm bistre ink. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_006",
+      "chapter": 1,
+      "duration": 11.0,
+      "narration": "Sebelum hari petaka itu tiba, Lombok bukanlah pulau yang sunyi. Di lereng utaranya yang subur, berdirilah ibu kota kerajaan bernama Pamatan.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Expansive panoramic master view of the ancient medieval kingdom of Pamatan, traditional tiered wooden palaces, thatched pavilions nestled among terraced green hills. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_007",
+      "chapter": 1,
+      "duration": 10.8,
+      "narration": "Pamatan adalah pusat peradaban yang makmur, lumbung beras yang melimpah, dan poros perdagangan maritim yang menghubungkan Jawa, Bali, hingga kepulauan Maluku.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Ancient Indonesian farmers tending lush terraced rice fields beneath a majestic peaceful volcanic peak, flowing irrigation streams, serene agrarian harmony. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_008",
+      "chapter": 1,
+      "duration": 10.5,
+      "narration": "Pelabuhan-pelabuhannya di Selat Alas ramai disinggahi kapal layar kayu pinisi yang bertukar rempah-rempah, kayu cendana, dan kerajinan emas.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Traditional wooden trading vessels docked at an ancient tropical coastal estuary, wooden piers, palm trees, calm morning sea with distant tranquil islands. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_009",
+      "chapter": 1,
+      "duration": 11.5,
+      "narration": "Di atas kota yang damai itu, menjulang sosok raksasa yang mendominasi seluruh cakrawala pulau: Gunung Samalas.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Majestic low-angle master landscape of colossal Mount Samalas towering 4200 meters into pristine morning clouds, ancient virgin tropical rainforests clothing its foothills. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_010",
+      "chapter": 1,
+      "duration": 11.0,
+      "narration": "Tingginya diperkirakan mencapai 4.200 meter di atas permukaan laut—jauh lebih tinggi dan lebih perkasa daripada Gunung Rinjani maupun Semeru hari ini.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Comparative geological survey landscape showing the titanic bulk of Mount Samalas dwarfing neighboring volcanic ridges, intricate vintage topographical hachuring. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_011",
+      "chapter": 1,
+      "duration": 10.8,
+      "narration": "Bagi rakyat Pamatan, Samalas adalah pasak bumi dan tempat bersemayamnya para dewa penjaga kesuburan tanah mereka.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Ancient stone shrine sanctuary and sacred temple carved into basalt rock on the misty slopes of the volcano, incense smoke rising into deep rainforest canopy. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_012",
+      "chapter": 1,
+      "duration": 11.2,
+      "narration": "Namun di kedalaman lima kilometer di bawah kaki mereka, sebuah bom waktu raksasa sedang mengumpulkan daya ledak yang tak tertandingi.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Cross-section geological diagram etching of the volcano interior, showing a massive pressurized magma chamber filled with boiling magma veins and trapped volcanic gases. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_013",
+      "chapter": 1,
+      "duration": 10.5,
+      "narration": "Tanda-tanda awal sebenarnya telah muncul: mata air di lereng gunung tiba-tiba mendidih dan berubah warna menjadi putih keruh berbau belerang menyengat.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Steaming geothermal sulfur spring bubbling violently amid jagged volcanic boulders, dense sulfurous vapor drifting across ancient jungle floor. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_014",
+      "chapter": 1,
+      "duration": 11.0,
+      "narration": "Hewan-hewan liar, kawanan kera, dan burung-burung hutan berbondong-bondong turun melarikan diri ke arah pantai, seolah mencium maut yang mendekat.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Flocks of startled wild birds taking flight from misty mountain forests, deer and monkeys fleeing down a rocky riverbed away from the volcano. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_015",
+      "chapter": 1,
+      "duration": 10.8,
+      "narration": "Gempa-gempa tremor kecil mulai mengguncang lantai istana Pamatan setiap malam, meretakkan dinding-dinding batu dan menimbulkan kecemasan di hati sang Raja.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Interior of an ancient royal Javanese-Balinese palace hall at night, oil lamps flickering wildly as ground tremors shake ornate carved stone pillars and floor tiles. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_016",
+      "chapter": 1,
+      "duration": 12.0,
+      "narration": "Tetapi tak seorang pun menyangka, bahwa pertanda-pertanda alam itu bukanlah sekadar amukan biasa... melainkan lonceng kematian bagi seluruh kerajaan mereka.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Ominous twilight view over the silent rooftops of Pamatan, thin wisps of black smoke beginning to vent ominously from the distant summit of Mount Samalas. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_017",
+      "chapter": 2,
+      "duration": 11.2,
+      "narration": "Selama lebih dari tujuh abad, peristiwa lenyapnya Samalas terkubur sunyi, hanya hidup sebagai legenda lokal dalam tembang-tembang rakyat Sasak.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Atmospheric panoramic landscape of the desolate windswept volcanic highlands under fading evening light, lonely ancient stone megalith standing amid wild grass. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_018",
+      "chapter": 2,
+      "duration": 11.5,
+      "narration": "Namun pada akhir abad ke-20, para ilmuwan iklim dunia menemukan sebuah misteri yang sangat membingungkan jauh di ujung kutub bumi.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. 19th-century scientific expedition plate of polar researchers wrapped in heavy furs operating an ice-core drilling rig amid a howling Greenland blizzard. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_019",
+      "chapter": 2,
+      "duration": 11.8,
+      "narration": "Melalui pengeboran lapisan es di Greenland dan Antartika, para glasiolog mengambil sampel es silinder yang berfungsi layaknya rekaman pita kaset iklim masa lalu.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Scientific drawing of a translucent cylindrical polar ice core section resting in laboratory calipers, revealing delicate microscopic ash and sulfate dust banding. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_020",
+      "chapter": 2,
+      "duration": 12.0,
+      "narration": "Dan tepat pada lapisan es bertarikh tahun 1258 dan 1259 Masehi, mereka menemukan anomali kimia yang membuat bulu kuduk berdiri.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Scientific chart and line-graph overlay on vintage paper showing an extreme vertical spike of sulfuric acid concentration towering over baseline data. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_021",
+      "chapter": 2,
+      "duration": 11.2,
+      "narration": "Konsentrasi asam sulfat dan aerosol belerang melonjak ke tingkat tertinggi yang pernah tercatat dalam tujuh ribu tahun sejarah peradaban manusia.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Microscopic scientific etching of sharp volcanic ash glass shards shards (tephra) and sulfur crystals captured in frozen ice crystals. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_022",
+      "chapter": 2,
+      "duration": 11.5,
+      "narration": "Lonjakan racun vulkanik ini bahkan delapan kali lebih besar daripada letusan Gunung Krakatau 1883, dan dua kali lipat melampaui kedahsyatan letusan Tambora 1815.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Comparative geological engraving showing silhouettes of Krakatoa and Tambora eruption plumes dwarfed by an immense shadowy titan eruption column. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_023",
+      "chapter": 2,
+      "duration": 11.0,
+      "narration": "Fakta bahwa jejak sulfat ini ditemukan terkubur tebal di kedua kutub sekaligus—Kutub Utara dan Kutub Selatan—menandakan bahwa letusan ini pasti terjadi di dekat garis khatulistiwa.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Antique hemisphere world map with engraved trade winds and ocean currents, curved atmospheric arrows carrying volcanic clouds from the equator toward both poles. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_024",
+      "chapter": 2,
+      "duration": 11.8,
+      "narration": "Sebab hanya letusan raksasa di zona tropis khatulistiwalah yang mampu menginjeksi gas vulkanik ke sirkulasi atmosfer Hadley yang menyebarkannya ke seluruh penjuru bumi.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Cross-section scientific diagram of Earth's atmosphere showing the tropical Hadley cell circulation lofting stratospheric aerosol veils across Northern and Southern hemispheres. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_025",
+      "chapter": 2,
+      "duration": 11.5,
+      "narration": "Namun selama lebih dari tiga dekade, identitas gunung yang memicu kiamat iklim tahun 1258 tetap menjadi misteri yang tak terpecahkan.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Late 19th-century geological symposium hall, distinguished bearded scientists in frock coats examining charts and arguing over globes under gas chandeliers. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_026",
+      "chapter": 2,
+      "duration": 11.0,
+      "narration": "Tersangka awal bermunculan: para ahli sempat menuduh Gunung Quilotoa di Pegunungan Andes Ekuador, Gunung Okataina di Selandia Baru, hingga El Chichon di Meksiko.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Antique atlas plate featuring small inset vignettes of various world volcanoes: Andes peaks, New Zealand volcanic zones, and Mexican craters. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_027",
+      "chapter": 2,
+      "duration": 11.2,
+      "narration": "Namun satu per satu tersangka itu gugur dalam uji laboratorium. Komposisi kimia kaca vulkanik dari gunung-gunung tersebut sama sekali tidak cocok dengan sampel es kutub.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Scientific chemical assay laboratory with antique glassware, balances, and flame spectroscopy instruments analyzing mineral powders. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_028",
+      "chapter": 2,
+      "duration": 11.8,
+      "narration": "Sang pelaku adalah buronan geologi paling misterius di dunia—sebuah gunung tak bernama yang telah membekukan bumi tetapi berhasil menyembunyikan jejaknya selama 750 tahun.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Moody atmospheric silhouette of a distant shattered volcanic caldera shrouded in heavy sea mist and rain clouds, enigmatic and untouched by time. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_029",
+      "chapter": 2,
+      "duration": 11.5,
+      "narration": "Titik terang baru mulai muncul ketika sekelompok vulkanolog internasional pimpinan Profesor Franck Lavigne dari Universitas Paris 1 Pantheon-Sorbonne datang ke Indonesia.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Field survey expedition team of geologists traversing a steep rugged tropical volcanic ridge, carrying geological hammers, notebooks, and rock specimen satchels. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_030",
+      "chapter": 2,
+      "duration": 11.0,
+      "narration": "Mereka menyusuri tebing-tebing curam dan sungai-sungai dalam di Pulau Lombok, mengumpulkan sampel endapan abu batu apung yang tebalnya mencapai puluhan meter.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Massive exposed geological roadcut cliff showing colossal layered strata of white pumice and dark pyroclastic ash deposits towering over a small survey geologist. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_031",
+      "chapter": 2,
+      "duration": 12.0,
+      "narration": "Melalui penanggalan radiokarbon pada kayu-kayu pohon purba yang terbakar dan terkubur di bawah endapan abu, mereka menemukan kepastian waktu yang mencengangkan: letusan itu terjadi tepat di pertengahan abad ke-13.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Detailed field sketch of a carbonized tree trunk petrified and encased within thick pumice ash layers, with scientific measurement scales and geological notes. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_032",
+      "chapter": 2,
+      "duration": 12.2,
+      "narration": "Dan ketika analisis geokimia isotopik dilakukan, sidik jari kimia abu batu apung di Lombok terbukti 100% identik dengan asam sulfat di lapisan es Greenland dan Antartika. Sang monster akhirnya ditemukan: namanya adalah Samalas.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Dramatic visual matching of antique laboratory data: crystal lattice diagrams aligning perfectly over a sweeping panoramic view of the majestic Lombok coastline. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_033",
+      "chapter": 3,
+      "duration": 11.8,
+      "narration": "Klimaks petaka geologis itu dimulai pada suatu siang di pertengahan tahun 1257, ketika dapur magma Samalas mencapai titik jenuhnya.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Dramatic establishing wide shot of Mount Samalas on a dark stormy afternoon, ominous dark cloud canopy swirling above the crater rim. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_034",
+      "chapter": 3,
+      "duration": 11.5,
+      "narration": "Berdasarkan rekonstruksi geologi dan catatan Babad Lombok, letusan Samalas 1257 dimulai pada suatu siang yang panas dengan suara gemuruh yang menggetarkan dada.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Ominous view from a village outside Pamatan, people pausing in fear as sudden violent tremors send ripples through water jars and shockwaves through the soil. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_035",
+      "chapter": 3,
+      "duration": 12.0,
+      "narration": "Fase pertama adalah letusan freatomagmatik dahsyat ketika air tanah bertekanan tinggi bertemu langsung dengan kantung magma cair bersuhu lebih dari seribu derajat Celcius.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Violent explosive rupture of the summit crater, massive initial steam-and-ash ejection blasting rock fragments outward in a hemispherical pressure ring. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_036",
+      "chapter": 3,
+      "duration": 11.2,
+      "narration": "Sumbat batuan penutup kawah hancur lebur berkeping-keping, membuka saluran magma utama layaknya tutup botol raksasa yang terlepas dengan kekuatan jutaan ton TNT.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Extreme close-up etching of the crater throat disintegrating into supersonic boulder ejecta and incandescent gas jets under immense geological pressure. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_037",
+      "chapter": 3,
+      "duration": 12.5,
+      "narration": "Dalam hitungan menit, kolom letusan tipe Plinian melesat tegak lurus ke angkasa dengan kecepatan supersonik—lebih dari tiga ratus meter per detik.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Titan Plinian eruption column punching vertically through the troposphere into the stratosphere, an unfathomable pillar of churning black ash and boiling pumice. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_038",
+      "chapter": 3,
+      "duration": 12.0,
+      "narration": "Tiang abu hitam pekat itu menembus stratosfer hingga mencapai ketinggian 43 kilometer—empat kali lebih tinggi dari ketinggian jelajah pesawat terbang modern hari ini.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. High-altitude oblique etching showing the colossal ash plume flattening against the stratospheric boundary, spreading laterally into a gigantic umbrella cloud. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_039",
+      "chapter": 3,
+      "duration": 11.8,
+      "narration": "Di puncak stratosfer, tiang abu itu mengembang menjadi awan payung raksasa selebar ratusan kilometer yang menghalangi seluruh sinar matahari, mematikan siang menjadi malam gulita.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Dramatic wide-angle view from high ocean: the gargantuan umbrella cloud blotting out the sun into a horrifying total solar eclipse over the entire Indonesian archipelago. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_040",
+      "chapter": 3,
+      "duration": 11.5,
+      "narration": "Ratusan sambaran kilat vulkanik bercabang-cabang menyambar di tengah badai debu, dipicu oleh gesekan elektrostatik miliaran partikel abu silika yang berbenturan.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Fierce dendritic network of branching volcanic lightning bolts spiderwebbing through the churning dark obsidian umbrella ash cloud. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_041",
+      "chapter": 3,
+      "duration": 11.0,
+      "narration": "Batu-batu apung pijar dan bom vulkanik sebesar rumah terlontar setinggi puluhan kilometer, lalu menghujani lereng-lereng gunung dan perkampungan warga tanpa jeda.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Terrifying rain of incandescent tephra boulders and glowing volcanic bombs crashing into forested ridges and mountain settlements, igniting fires. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_042",
+      "chapter": 3,
+      "duration": 11.8,
+      "narration": "Babad Lombok melukiskan kepanikan yang luar biasa: penduduk berlarian tak tentu arah, bersujud memohon ampun, sementara atap-atap rumah mereka runtuh di bawah timbunan batu.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Classical etching of terrified villagers and families fleeing through ash-covered streets, clutching children under falling pumice stones, dramatic expressionism. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_043",
+      "chapter": 3,
+      "duration": 12.2,
+      "narration": "Namun bahaya yang sesungguhnya baru saja dimulai. Ketika tiang letusan setinggi 43 kilometer itu menjadi terlalu padat dan berat untuk ditopang oleh tekanan gas dari bawah...",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. The summit column reaching critical density, beginning to buckle and collapse under Earth's relentless gravity in massive billowing convective folds. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_044",
+      "chapter": 3,
+      "duration": 12.5,
+      "narration": "Kolom erupsi kolosal tersebut runtuh ke lereng gunung, melahirkan gelombang awan panas piroklastik yang paling mengerikan dalam sejarah bumi.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Colossal pyroclastic density currents avalanching down all flanks of Mount Samalas, a wall of incandescent ash and boiling gas hundreds of meters high. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_045",
+      "chapter": 3,
+      "duration": 12.0,
+      "narration": "Awan piroklastik bersuhu delapan ratus derajat Celcius meluncur dengan kecepatan lebih dari dua ratus kilometer per jam, menyapu segala sesuatu yang dilaluinya tanpa sisa.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. The surging wall of pyroclastic avalanche sweeping across tropical agricultural river valleys, vaporizing ancient forests and rivers in plumes of superheated steam. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_046",
+      "chapter": 3,
+      "duration": 12.0,
+      "narration": "Ibu kota Pamatan dihantam telak. Dalam hitungan detik, seluruh istana, lumbung beras, permukiman, dan ribuan penghuninya terkubur hidup-hidup di bawah endapan batu apung sedalam puluhan meter.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. The majestic royal pavilions and wooden temples of Pamatan being engulfed and buried by sweeping ash surges, vanishing beneath an immense sea of volcanic sediment. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_047",
+      "chapter": 3,
+      "duration": 11.5,
+      "narration": "Pamatan seketika bernasib persis seperti Kota Pompeii di Romawi kuno—sebuah kota metropolis makmur yang mendadak lenyap ditelan perut bumi dalam satu sore.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Archaeological cutaway sketch of ancient rooflines, pottery jars, and structural beams entombed deep beneath monumental layers of stratified volcanic pumice. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_048",
+      "chapter": 3,
+      "duration": 12.8,
+      "narration": "Setelah mengeluarkan lebih dari empat puluh kilometer kubik material magma ke angkasa, ruang dapur magma raksasa di bawah Samalas akhirnya kosong melompong.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Subterranean cross-section showing the immense hollowed-out magma cavern beneath the mountain losing structural integrity under colossal lithostatic weight. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_049",
+      "chapter": 3,
+      "duration": 13.0,
+      "narration": "Tanpa penyangga di bawahnya, fondasi gunung tak lagi mampu menahan berat bebannya sendiri. Puncak Samalas setinggi 4.200 meter runtuh secara spektakuler ke dalam rongga bumi yang kosong...",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Catastrophic structural collapse of the entire volcanic mountain massif, colossal fault blocks shearing and plunging downward into the subterranean abyss. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_050",
+      "chapter": 3,
+      "duration": 12.5,
+      "narration": "Tubuh sang raksasa ambles sedalam satu kilometer, meninggalkan lubang kaldera runtuhan raksasa selebar delapan setengah kali enam kilometer yang kita kenal hari ini.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Vast smoking post-collapse caldera abyss, sheer vertical basalt precipices enclosing an immense hollow basin still venting sulfurous fumes and steam. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_051",
+      "chapter": 4,
+      "duration": 11.5,
+      "narration": "Samalas meletus di sebuah pulau kecil di Nusantara, namun gempa iklimnya menjalar dan melumpuhkan peradaban di seluruh penjuru dunia.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Atmospheric globe map showing swirling stratospheric aerosol plumes wrapping around Eurasia, Africa, and the Americas, dimming the sunlight. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_052",
+      "chapter": 4,
+      "duration": 11.8,
+      "narration": "Sebanyak empat puluh juta ton sulfur dioksida yang terlontar ke stratosfer bereaksi dengan uap air, membentuk selubung kabut asam sulfat global yang memantulkan sinar matahari kembali ke luar angkasa.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Artistic meteorological diagram of atmospheric reflective aerosol veil hovering high above Earth's curved cloud layers, reflecting golden solar rays away. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_053",
+      "chapter": 4,
+      "duration": 11.2,
+      "narration": "Akibatnya, bumi mengalami efek rumah kaca terbalik: suhu rata-rata global anjlok hingga dua hingga empat derajat Celcius.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Bleak historical landscape of European countryside under a faint pale ghostly sun, cold unnatural mist drifting over stunted withered crops in summer. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_054",
+      "chapter": 4,
+      "duration": 12.0,
+      "narration": "Tahun 1258 tercatat dalam kronik-kronik sejarah Eropa abad pertengahan sebagai 'Tahun Tanpa Musim Panas' paling mengerikan yang pernah disaksikan manusia.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Medieval European village in July, peasants bundled in heavy winter cloaks shivering under persistent cold drenching rain and gray overcast skies. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_055",
+      "chapter": 4,
+      "duration": 11.5,
+      "narration": "Di Inggris, seorang biarawan Benediktin bernama Matthew Paris di Biara St. Albans menuliskan kesaksian yang memilukan dalam catatan hariannya:",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. A medieval Christian monk in a hooded robe writing with a quill pen by candlelight in a stone monastery scriptorium, ancient manuscript ledger open. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_056",
+      "chapter": 4,
+      "duration": 12.2,
+      "narration": "'Hujan dingin turun tanpa henti sepanjang musim panas... gandum di ladang membusuk sebelum sempat menguning, dan kabut tebal menyelimuti matahari hingga sinarnya pucat seperti mayat.'",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Flooded muddy English wheat fields, rotten blackened grain stalks flattened by torrential cold rain, church bell tower standing lonely in distant fog. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_057",
+      "chapter": 4,
+      "duration": 11.8,
+      "narration": "Gagal panen total melanda seantero Kepulauan Britania. Harga roti melonjak tajam hingga ribuan keluarga miskin terpaksa memakan rumput dan kulit kayu demi bertahan hidup.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Impoverished medieval London townsfolk crowding despairingly outside a closed bakery market stall, desperate mothers holding starving children in muddy alley. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_058",
+      "chapter": 4,
+      "duration": 12.5,
+      "narration": "Di London, kelaparan massal membunuh lebih dari lima belas ribu jiwa—hampir sepertiga dari seluruh penduduk kota pada saat itu.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Historical panorama of medieval London along the dark River Thames under relentless rain, carts transporting deceased citizens through desolate streets. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_059",
+      "chapter": 4,
+      "duration": 12.0,
+      "narration": "Pada dekade 1990-an, para arkeolog di Spitalfields London menemukan bukti nyata dari kengerian ini: kuburan massal berisi ribuan kerangka manusia abad ke-13 yang ditumpuk tergesa-gesa.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Archaeological excavation trench revealing neatly stacked historic skeletons buried in communal lime pits, precise archaeological drafting and field markers. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_060",
+      "chapter": 4,
+      "duration": 12.0,
+      "narration": "Mereka adalah korban-korban tak berdosa yang mati kelaparan akibat letusan sebuah gunung purba di seberang samudra yang namanya bahkan tak pernah mereka dengar seumur hidup.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Touching close-up of archaeological excavation showing the skeleton of an adult embracing a child in ancient burial soil, poignant historical memorial feel. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_061",
+      "chapter": 4,
+      "duration": 11.5,
+      "narration": "Krisis pangan ini bahkan mengguncang stabilitas politik kerajaan: para bangsawan Inggris memberontak melawan Raja Henry III, memaksakan lahirnya Konstitusi Oxford pada tahun 1258.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Rebellious English feudal barons in chainmail armor and surcoats confronting King Henry III inside Westminster Hall, historic constitutional turning point. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_062",
+      "chapter": 4,
+      "duration": 11.2,
+      "narration": "Di daratan Eropa Barat, Perancis dan Jerman mengalami musim dingin ekstrem yang berlangsung hingga pertengahan bulan Mei, membekukan sungai-sungai utama dan memicu wabah tipus.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Frozen European river with horse carts crossing thick ice sheets beside stone castle ramparts under heavy falling unseasonal snow in late spring. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_063",
+      "chapter": 4,
+      "duration": 11.8,
+      "narration": "Di Timur Tengah, catatan sejarah mencatat Sungai Nil di Mesir mengalami kekeringan ekstrem karena melemahnya pola monsun Afrika yang terganggu oleh abu vulkanik.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Parched dry mudflats of the River Nile, grounded wooden felucca boats beside cracked clay banks under hazy dim sun near ancient Egyptian palm groves. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_064",
+      "chapter": 4,
+      "duration": 12.2,
+      "narration": "Kelaparan hebat yang melanda wilayah Timur Tengah ini melemahkan pertahanan Kekhalifahan Abbasiyah di Baghdad, tepat saat pasukan kavaleri Mongol pimpinan Hulagu Khan mengepung kota pada awal tahun 1258.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Vast nomadic Mongol cavalry horde assembled on arid dusty plains outside the colossal stone walls and minarets of medieval Baghdad, ominous dark skies. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_065",
+      "chapter": 4,
+      "duration": 11.5,
+      "narration": "Bahkan di ujung timur Tiongkok, kronik Dinasti Song Selatan mencatat salju lebat turun di tengah musim gugur, membekukan tanaman padi dan memicu krisis pangan nasional.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Southern Song Dynasty Chinese fortified town under heavy unseasonal autumn snowfall, terracotta tiled roofs laden with snow, river frozen beneath arched bridge. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_066",
+      "chapter": 5,
+      "duration": 11.0,
+      "narration": "Ratusan tahun telah berlalu sejak hari di mana langit bumi membeku dan kerajaan Pamatan lenyap terkubur.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Serene contemplative view across the vast ancient caldera rim as gentle morning fog drifts slowly across the quiet landscape, peaceful historical stillness. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_067",
+      "chapter": 5,
+      "duration": 11.5,
+      "narration": "Debu letusan perlahan mengendap, dan tetes demi tetes air hujan selama berabad-abad mulai membasuh luka menganga di tanah Lombok.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Gentle mountain rain falling into the deep hollow volcanic caldera basin, water trickling down steep rocky cliffs into a rising pristine pool. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_068",
+      "chapter": 5,
+      "duration": 11.8,
+      "narration": "Dari kuburan raksasa Gunung Samalas yang hancur, perlahan terisi sebuah danau kawah kramat yang teramat indah dengan air berwarna hijau zamrud: Danau Segara Anak.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Breathtaking wide-angle panoramic view of Segara Anak crater lake, tranquil emerald-green water reflecting majestic jagged vertical caldera cliffs and soft clouds. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_069",
+      "chapter": 5,
+      "duration": 11.2,
+      "narration": "Segara Anak—yang berarti 'Anak Lautan'—berdiri tenang di ketinggian dua ribu meter, menjadi tempat suci di mana masyarakat Sasak dan Bali melarung doa dan sesaji hingga hari ini.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Traditional Sasak and Balinese pilgrims in white ceremonial clothing offering flower petals and incense at the quiet shore of Segara Anak lake, peaceful spirituality. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_070",
+      "chapter": 5,
+      "duration": 11.5,
+      "narration": "Dan di tengah danau yang hening itu, aktivitas magma purba kembali bangkit dari dasar rekahan kaldera.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Subtle geothermal activity on the surface of the crater lake, bubbles and volcanic mineral steam rising from underwater vents. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_071",
+      "chapter": 5,
+      "duration": 11.2,
+      "narration": "Sebuah kerucut vulkanik baru lahir dari dalam danau: Gunung Barujari—anak gunung berapi yang terus bertumbuh dan beberapa kali meletus hingga abad ke-21.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Detailed fine-line etching of Mount Barujari with crisp dark basalt lava flows spreading into the calm turquoise crater lake, morning sunbeams breaking through mist. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_072",
+      "chapter": 5,
+      "duration": 11.8,
+      "narration": "Dinding kaldera raksasa setinggi ratusan meter yang mengurung Segara Anak hari ini menjadi saksi bisu betapa masifnya volume batuan yang lenyap pada petaka 1257.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Towering sheer vertical basalt caldera cliffs showing exposed geological strata banding, looking down across the immense perimeter of the ancient caldera bowl. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_073",
+      "chapter": 5,
+      "duration": 11.2,
+      "narration": "Endapan abu dan batu apung setebal puluhan meter kini telah melapuk menjadi tanah andosol yang sangat subur, menopang kehidupan pertanian masyarakat Lombok.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Vibrant agrarian landscape of modern Lombok: lush green terraced rice paddies, coconut palms, and abundant harvest flourishing on rich dark volcanic soil. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_074",
+      "chapter": 5,
+      "duration": 11.5,
+      "narration": "Namun di balik kesuburan itu, peradaban kuno Pamatan masih bersemayam dalam keheningan geologis di bawah lapisan batuan vulkanik.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Archaeological cutaway diagram showing modern fertile farm fields sitting directly above ancient buried palace stone foundations deep below volcanic pumice layers. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_075",
+      "chapter": 5,
+      "duration": 12.0,
+      "narration": "Hingga hari ini, para arkeolog terus melakukan survei georadar dan ekskavasi di kawasan Sembalun untuk menemukan kembali sisa-sisa ibu kota Pamatan yang terkubur.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Modern archaeological team conducting ground-penetrating radar surveys and careful trench excavations in a misty mountain valley beneath towering volcanic cliffs. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_076",
+      "chapter": 5,
+      "duration": 12.5,
+      "narration": "Penemuan keterkaitan antara naskah Babad Lombok dan lapisan es kutub menjadi salah satu bukti paling monumental dalam sejarah sains modern.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Historical archival montage plate: ancient palm leaf manuscript lontar resting alongside modern geological charts and polar ice core sample logs. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    },
+    {
+      "id": "shot_077",
+      "chapter": 5,
+      "duration": 13.0,
+      "narration": "Gunung Samalas telah runtuh dan melahirkan kaldera Segara Anak, namun jejak letusannya pada tahun 1257 akan selamanya tercatat sebagai salah satu peristiwa paling dahsyat yang pernah mengubah jalannya peradaban manusia.",
+      "visual_prompt": "Authentic 19th-century copperplate etching and archival sepia lithograph on aged tea-stained parchment paper. Final poetic panoramic plate: calm evening stars and crescent moon rising over the silent, majestic caldera of Mount Samalas, infinite timeless cosmic peace. Monochromatic warm sepia, cream parchment, burnt umber charcoal ink, antique Royal Society geological survey illustration style. Full bleed borderless composition, image extends seamlessly to every edge of the frame, absolutely no borders, no outer margins, no picture frame, no framing lines, no text, clean plate 16:9 widescreen"
+    }
+  ]
+}

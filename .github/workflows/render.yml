@@ -1,0 +1,87 @@
+name: Matrix Cloud Rendering Project 404
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  render-matrix:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        batch:
+          - { start: 1, end: 15 }
+          - { start: 16, end: 30 }
+          - { start: 31, end: 45 }
+          - { start: 46, end: 60 }
+          - { start: 61, end: 77 }
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install System Dependencies (FFmpeg & Libass)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libass-dev fonts-dejavu
+
+      - name: Install Custom Fonts to Linux System (Poppins, Courier Prime, etc.)
+        run: |
+          mkdir -p ~/.local/share/fonts
+          cp assets/fonts/*.ttf ~/.local/share/fonts/
+          fc-cache -f -v
+          fc-list : family | grep -i "Poppins" || true
+          fc-list : family | grep -i "Courier" || true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Cloud Render Batch ${{ matrix.batch.start }} - ${{ matrix.batch.end }}
+        run: |
+          python src/cloud_render_batch.py --start ${{ matrix.batch.start }} --end ${{ matrix.batch.end }}
+
+      - name: Upload Batch Clips Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rendered-clips-part-${{ matrix.batch.start }}-${{ matrix.batch.end }}
+          path: output/rendered_clips/
+          retention-days: 2
+
+  assemble-master:
+    needs: render-matrix
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Download All Rendered Clips Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded-artifacts/
+
+      - name: Flatten Clips to output/rendered_clips/
+        run: |
+          mkdir -p output/rendered_clips
+          find downloaded-artifacts/ -name "shot_*.mp4" -exec cp {} output/rendered_clips/ \;
+          ls -la output/rendered_clips/
+          echo "Total rendered clips: $(ls -1 output/rendered_clips/*.mp4 | wc -l)"
+
+      - name: Assemble Master Film 15 Minutes
+        run: |
+          python src/cloud_assemble_master.py
+
+      - name: Upload Final Master Film 1080p Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: SAMALAS_1257_MASTER_FILM_15MIN_P404
+          path: export/SAMALAS_1257_MASTER_FILM_15MIN_P404.mp4
+          retention-days: 7

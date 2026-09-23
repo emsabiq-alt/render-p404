@@ -1,0 +1,7 @@
+1
+00:00:00,000 --> 00:00:05,004
+gempa-gempa tremor kecil mulai mengguncang lantai istana pamatan setiap malam
+
+2
+00:00:05,004 --> 00:00:10,008
+meretakkan dinding-dinding batu dan menimbulkan kecemasan di hati sang raja.
