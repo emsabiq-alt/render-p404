@@ -1,18 +1,12 @@
 """
 cloud_render_batch.py — Script Runner Matrix Paralel di GitHub Actions
-Fitur:
-- Menerima argumen --start dan --end (misal: worker 1 render 1-16, worker 2 render 17-32, dst).
-- Merender klip adegan dengan:
-  1. Ken Burns dinamis mengikuti durasi audio.
-  2. Heavy Grunge Texture (Grayscale Screen Blend 35%).
-  3. Vignette cembung CRT TV jadul.
-  4. Watermark 'documentary by: BANYAK TAU' (clean no stroke, flush-left).
-  5. Subtitle Poppins Bold (700) strict lowercase.
-  6. Audio 48.000 Hz Stereo AAC.
+Perbaikan v2:
+- Tail padding +0.8s di akhir setiap klip agar narasi TIDAK terpotong.
+- Ken Burns + Heavy Grunge + CRT Vignette + Watermark + Subtitle.
+- Audio 48.000 Hz Stereo AAC.
+- Durasi video = durasi_audio + 0.8s padding.
 """
 import os
-import sys
-import json
 import argparse
 import subprocess
 
@@ -25,23 +19,31 @@ FONTS_DIR = os.path.join(BASE_DIR, "assets/fonts")
 GRUNGE_MP4 = os.path.join(BASE_DIR, "assets/heavy-grunge-texture-background-camila-ballell.mp4")
 WM_FILE = os.path.join(BASE_DIR, "assets/watermark_clean_no_stroke.png")
 
+TAIL_PAD = 0.8  # detik padding setelah narasi selesai
+
 os.makedirs(OUT_CLIPS_DIR, exist_ok=True)
+
+def get_duration(path):
+    r = subprocess.run(
+        ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+         "-of", "default=noprint_wrappers=1:nokey=1", path],
+        capture_output=True, text=True
+    )
+    return float(r.stdout.strip())
 
 def render_single_shot(shot_id_num):
     shot_str = f"shot_{shot_id_num:03d}"
     img_p = os.path.join(FLOW_DIR, f"{shot_str}.png")
     audio_p = os.path.join(AUDIO_DIR, f"{shot_str}.mp3")
-    sub_p = os.path.join(SUB_DIR, f"{shot_str}.srt")
     out_mp4 = os.path.join(OUT_CLIPS_DIR, f"{shot_str}.mp4")
 
     if not os.path.exists(img_p) or not os.path.exists(audio_p):
         print(f"Skipping {shot_str}, file not found.")
         return
 
-    # Durasi audio
-    cmd_dur = ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=noprint_wrappers=1:nokey=1", audio_p]
-    dur = float(subprocess.run(cmd_dur, capture_output=True, text=True).stdout.strip())
-    total_frames = int(dur * 30)
+    audio_dur = get_duration(audio_p)
+    total_dur = audio_dur + TAIL_PAD  # video lebih panjang dari audio
+    total_frames = int(total_dur * 30)
 
     sub_rel = f"output/subtitles/{shot_str}.srt"
     sub_style = (
@@ -52,11 +54,6 @@ def render_single_shot(shot_id_num):
 
     zoom_step = 0.070 / float(total_frames)
 
-    # Filter graph:
-    # 0: Base image
-    # 1: Heavy Grunge
-    # 2: Audio MP3
-    # 3: Watermark PNG
     filter_complex = (
         f"[0:v]scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,"
         f"zoompan=z='min(zoom+{zoom_step:.6f},1.070)':x='iw*0.50-(iw/zoom/2)':y='ih*0.48-(ih/zoom/2)':d={total_frames}:s=1920x1080:fps=30,"
@@ -79,12 +76,13 @@ def render_single_shot(shot_id_num):
         "-map", "2:a",
         "-c:v", "libx264", "-preset", "fast", "-crf", "18",
         "-c:a", "aac", "-ar", "48000", "-ac", "2", "-b:a", "192k",
-        "-t", f"{dur:.2f}",
+        "-t", f"{total_dur:.2f}",
+        "-shortest",
         out_mp4
     ]
 
     subprocess.run(cmd, check=True, cwd=BASE_DIR)
-    print(f"✓ Rendered {shot_str}.mp4 ({dur:.2f}s)")
+    print(f"✓ Rendered {shot_str}.mp4 (audio={audio_dur:.2f}s total={total_dur:.2f}s)")
 
 def main():
     parser = argparse.ArgumentParser()
@@ -92,7 +90,7 @@ def main():
     parser.add_argument("--end", type=int, default=77)
     args = parser.parse_args()
 
-    print(f"=== CLOUD RENDER WORKER: Shots {args.start} to {args.end} ===")
+    print(f"=== CLOUD RENDER WORKER v2: Shots {args.start} to {args.end} ===")
     for shot_id in range(args.start, args.end + 1):
         render_single_shot(shot_id)
     print("=== WORKER BATCH COMPLETED ===")
