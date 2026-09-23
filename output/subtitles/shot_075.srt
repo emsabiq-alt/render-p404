@@ -1,3 +1,20 @@
 1
-00:00:00,000 --> 00:00:10,896
-hingga hari ini para arkeolog terus melakukan survei georadar dan ekskavasi di kawasan sembalun untuk menemukan kembali sisa-sisa ibu kota pamatan yang terkubur.
+00:00:00,150 --> 00:00:01,201
+hingga hari ini
+
+2
+00:00:01,321 --> 00:00:04,475
+para arkeolog terus melakukan survei georadar
+
+3
+00:00:04,595 --> 00:00:07,328
+dan ekskavasi di kawasan sembalun untuk
+
+4
+00:00:07,448 --> 00:00:10,532
+menemukan kembali sisa-sisa ibu kota pamatan
+
+5
+00:00:10,652 --> 00:00:11,633
+yang terkubur.
+

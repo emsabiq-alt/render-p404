@@ -1,3 +1,16 @@
 1
-00:00:00,000 --> 00:00:09,600
-di inggris seorang biarawan benediktin bernama matthew paris di biara st. albans menuliskan kesaksian yang memilukan dalam catatan hariannya
+00:00:00,150 --> 00:00:00,885
+di inggris
+
+2
+00:00:01,005 --> 00:00:04,609
+seorang biarawan benediktin bernama matthew paris
+
+3
+00:00:04,729 --> 00:00:07,670
+di biara st. albans menuliskan kesaksian
+
+4
+00:00:07,790 --> 00:00:10,658
+yang memilukan dalam catatan hariannya:
+

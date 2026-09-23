@@ -1,3 +1,16 @@
 1
-00:00:00,000 --> 00:00:11,664
-dinding kaldera raksasa setinggi ratusan meter yang mengurung segara anak hari ini menjadi saksi bisu betapa masifnya volume batuan yang lenyap pada petaka 1257.
+00:00:00,150 --> 00:00:03,794
+dinding kaldera raksasa setinggi ratusan meter
+
+2
+00:00:03,914 --> 00:00:06,687
+yang mengurung segara anak hari ini
+
+3
+00:00:06,807 --> 00:00:10,055
+menjadi saksi bisu betapa masifnya volume
+
+4
+00:00:10,175 --> 00:00:13,026
+batuan yang lenyap pada petaka 1257.
+

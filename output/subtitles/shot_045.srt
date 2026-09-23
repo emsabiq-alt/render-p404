@@ -1,7 +1,20 @@
 1
-00:00:00,000 --> 00:00:05,640
-awan piroklastik bersuhu delapan ratus derajat celcius meluncur dengan kecepatan lebih dari dua ratus kilometer per jam
+00:00:00,150 --> 00:00:03,296
+awan piroklastik bersuhu delapan ratus derajat
 
 2
-00:00:05,640 --> 00:00:11,280
-menyapu segala sesuatu yang dilaluinya tanpa sisa.
+00:00:03,416 --> 00:00:06,424
+celcius meluncur dengan kecepatan lebih dari
+
+3
+00:00:06,544 --> 00:00:08,391
+dua ratus kilometer per jam
+
+4
+00:00:08,511 --> 00:00:11,520
+menyapu segala sesuatu yang dilaluinya tanpa
+
+5
+00:00:11,640 --> 00:00:11,981
+sisa.
+

@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:05,856
-dan tepat pada lapisan es bertarikh tahun 1258 dan 1259 masehi
+00:00:00,150 --> 00:00:03,375
+dan tepat pada lapisan es bertarikh
 
 2
-00:00:05,856 --> 00:00:11,712
-mereka menemukan anomali kimia yang membuat bulu kuduk berdiri.
+00:00:03,495 --> 00:00:05,890
+tahun 1258 dan 1259 masehi
+
+3
+00:00:06,010 --> 00:00:09,972
+mereka menemukan anomali kimia yang membuat
+
+4
+00:00:10,092 --> 00:00:11,842
+bulu kuduk berdiri.
+

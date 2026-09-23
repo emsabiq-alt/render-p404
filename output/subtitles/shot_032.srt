@@ -1,11 +1,24 @@
 1
-00:00:00,000 --> 00:00:05,696
+00:00:00,150 --> 00:00:03,827
 dan ketika analisis geokimia isotopik dilakukan
 
 2
-00:00:05,696 --> 00:00:11,392
-sidik jari kimia abu batu apung di lombok terbukti 100% identik dengan asam sulfat di lapisan es greenland dan antartika. sang monster akhirnya ditemukan
+00:00:03,947 --> 00:00:06,373
+sidik jari kimia abu batu apung
 
 3
-00:00:11,392 --> 00:00:17,088
+00:00:06,493 --> 00:00:09,466
+di lombok terbukti 100% identik dengan
+
+4
+00:00:09,586 --> 00:00:12,325
+asam sulfat di lapisan es greenland
+
+5
+00:00:12,445 --> 00:00:16,122
+dan antartika. sang monster akhirnya ditemukan:
+
+6
+00:00:16,242 --> 00:00:18,042
 namanya adalah samalas.
+

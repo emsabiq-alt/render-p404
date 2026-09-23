@@ -1,11 +1,20 @@
 1
-00:00:00,000 --> 00:00:04,016
-babad lombok melukiskan kepanikan yang luar biasa
+00:00:00,150 --> 00:00:03,234
+babad lombok melukiskan kepanikan yang luar
 
 2
-00:00:04,016 --> 00:00:08,032
-penduduk berlarian tak tentu arah
+00:00:03,354 --> 00:00:06,223
+biasa: penduduk berlarian tak tentu arah
 
 3
-00:00:08,032 --> 00:00:12,048
-bersujud memohon ampun sementara atap-atap rumah mereka runtuh di bawah timbunan batu.
+00:00:06,343 --> 00:00:07,921
+bersujud memohon ampun
+
+4
+00:00:08,041 --> 00:00:11,054
+sementara atap-atap rumah mereka runtuh di
+
+5
+00:00:11,174 --> 00:00:12,608
+bawah timbunan batu.
+

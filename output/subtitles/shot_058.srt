@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,272
-di london kelaparan massal membunuh lebih dari lima belas ribu jiwa
+00:00:00,150 --> 00:00:00,791
+di london
 
 2
-00:00:04,272 --> 00:00:08,544
-hampir sepertiga dari seluruh penduduk kota pada saat itu.
+00:00:00,911 --> 00:00:03,829
+kelaparan massal membunuh lebih dari lima
+
+3
+00:00:03,949 --> 00:00:07,152
+belas ribu jiwa—hampir sepertiga dari seluruh
+
+4
+00:00:07,272 --> 00:00:09,265
+penduduk kota pada saat itu.
+

@@ -1,11 +1,24 @@
 1
-00:00:00,000 --> 00:00:04,640
-melalui penanggalan radiokarbon pada kayu-kayu pohon purba yang terbakar dan terkubur di bawah endapan abu
+00:00:00,150 --> 00:00:03,916
+melalui penanggalan radiokarbon pada kayu-kayu pohon
 
 2
-00:00:04,640 --> 00:00:09,280
-mereka menemukan kepastian waktu yang mencengangkan
+00:00:04,036 --> 00:00:06,571
+purba yang terbakar dan terkubur di
 
 3
-00:00:09,280 --> 00:00:13,920
-letusan itu terjadi tepat di pertengahan abad ke-13.
+00:00:06,691 --> 00:00:07,923
+bawah endapan abu
+
+4
+00:00:08,043 --> 00:00:11,809
+mereka menemukan kepastian waktu yang mencengangkan:
+
+5
+00:00:11,929 --> 00:00:14,826
+letusan itu terjadi tepat di pertengahan
+
+6
+00:00:14,946 --> 00:00:15,743
+abad ke-13.
+

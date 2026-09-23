@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,692
-akibatnya bumi mengalami efek rumah kaca terbalik
+00:00:00,150 --> 00:00:00,823
+akibatnya
 
 2
-00:00:04,692 --> 00:00:09,384
-suhu rata-rata global anjlok hingga dua hingga empat derajat celcius.
+00:00:00,943 --> 00:00:03,937
+bumi mengalami efek rumah kaca terbalik:
+
+3
+00:00:04,057 --> 00:00:06,975
+suhu rata-rata global anjlok hingga dua
+
+4
+00:00:07,095 --> 00:00:09,265
+hingga empat derajat celcius.
+

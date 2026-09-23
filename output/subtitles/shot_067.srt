@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,548
+00:00:00,150 --> 00:00:02,218
 debu letusan perlahan mengendap
 
 2
-00:00:04,548 --> 00:00:09,096
-dan tetes demi tetes air hujan selama berabad-abad mulai membasuh luka menganga di tanah lombok.
+00:00:02,338 --> 00:00:04,338
+dan tetes demi tetes air hujan
+
+3
+00:00:04,458 --> 00:00:07,660
+selama berabad-abad mulai membasuh luka menganga
+
+4
+00:00:07,780 --> 00:00:08,847
+di tanah lombok.
+

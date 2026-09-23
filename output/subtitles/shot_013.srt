@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,836
-tanda-tanda awal sebenarnya telah muncul
+00:00:00,150 --> 00:00:03,369
+tanda-tanda awal sebenarnya telah muncul: mata
 
 2
-00:00:04,836 --> 00:00:09,672
-mata air di lereng gunung tiba-tiba mendidih dan berubah warna menjadi putih keruh berbau belerang menyengat.
+00:00:03,489 --> 00:00:06,218
+air di lereng gunung tiba-tiba mendidih
+
+3
+00:00:06,338 --> 00:00:08,927
+dan berubah warna menjadi putih keruh
+
+4
+00:00:09,047 --> 00:00:10,867
+berbau belerang menyengat.
+

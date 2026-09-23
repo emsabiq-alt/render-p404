@@ -1,11 +1,20 @@
 1
-00:00:00,000 --> 00:00:03,576
-dari kuburan raksasa gunung samalas yang hancur
+00:00:00,150 --> 00:00:03,042
+dari kuburan raksasa gunung samalas yang
 
 2
-00:00:03,576 --> 00:00:07,152
-perlahan terisi sebuah danau kawah kramat yang teramat indah dengan air berwarna hijau zamrud
+00:00:03,162 --> 00:00:03,596
+hancur
 
 3
-00:00:07,152 --> 00:00:10,728
-danau segara anak.
+00:00:03,716 --> 00:00:06,680
+perlahan terisi sebuah danau kawah kramat
+
+4
+00:00:06,800 --> 00:00:09,548
+yang teramat indah dengan air berwarna
+
+5
+00:00:09,668 --> 00:00:11,981
+hijau zamrud: danau segara anak.
+

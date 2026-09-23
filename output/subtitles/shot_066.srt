@@ -1,3 +1,12 @@
 1
-00:00:00,000 --> 00:00:06,936
-ratusan tahun telah berlalu sejak hari di mana langit bumi membeku dan kerajaan pamatan lenyap terkubur.
+00:00:00,150 --> 00:00:02,756
+ratusan tahun telah berlalu sejak hari
+
+2
+00:00:02,876 --> 00:00:05,001
+di mana langit bumi membeku dan
+
+3
+00:00:05,121 --> 00:00:07,384
+kerajaan pamatan lenyap terkubur.
+

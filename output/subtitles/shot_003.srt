@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,308
+00:00:00,150 --> 00:00:02,172
 selama tujuh hari tujuh malam
 
 2
-00:00:04,308 --> 00:00:08,616
-matahari mati daratan lombok tenggelam dalam kegelapan total yang pekat dan menyesakkan dada.
+00:00:02,292 --> 00:00:03,198
+matahari mati
+
+3
+00:00:03,498 --> 00:00:06,705
+daratan lombok tenggelam dalam kegelapan total
+
+4
+00:00:06,825 --> 00:00:09,056
+yang pekat dan menyesakkan dada.
+

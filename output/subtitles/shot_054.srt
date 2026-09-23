@@ -1,3 +1,16 @@
 1
-00:00:00,000 --> 00:00:11,616
-tahun 1258 tercatat dalam kronik-kronik sejarah eropa abad pertengahan sebagai 'tahun tanpa musim panas' paling mengerikan yang pernah disaksikan manusia.
+00:00:00,150 --> 00:00:03,764
+tahun 1258 tercatat dalam kronik-kronik sejarah
+
+2
+00:00:03,884 --> 00:00:07,190
+eropa abad pertengahan sebagai 'tahun tanpa
+
+3
+00:00:07,310 --> 00:00:10,540
+musim panas' paling mengerikan yang pernah
+
+4
+00:00:10,660 --> 00:00:12,121
+disaksikan manusia.
+

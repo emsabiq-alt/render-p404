@@ -1,3 +1,20 @@
 1
-00:00:00,000 --> 00:00:10,368
-di timur tengah catatan sejarah mencatat sungai nil di mesir mengalami kekeringan ekstrem karena melemahnya pola monsun afrika yang terganggu oleh abu vulkanik.
+00:00:00,150 --> 00:00:01,161
+di timur tengah
+
+2
+00:00:01,281 --> 00:00:03,843
+catatan sejarah mencatat sungai nil di
+
+3
+00:00:03,963 --> 00:00:07,468
+mesir mengalami kekeringan ekstrem karena melemahnya
+
+4
+00:00:07,588 --> 00:00:10,149
+pola monsun afrika yang terganggu oleh
+
+5
+00:00:10,269 --> 00:00:11,146
+abu vulkanik.
+

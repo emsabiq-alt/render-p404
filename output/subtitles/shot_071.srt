@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:05,544
-sebuah kerucut vulkanik baru lahir dari dalam danau
+00:00:00,150 --> 00:00:03,169
+sebuah kerucut vulkanik baru lahir dari
 
 2
-00:00:05,544 --> 00:00:11,088
-gunung barujari anak gunung berapi yang terus bertumbuh dan beberapa kali meletus hingga abad ke-21.
+00:00:03,289 --> 00:00:06,927
+dalam danau: gunung barujari—anak gunung berapi
+
+3
+00:00:07,047 --> 00:00:09,988
+yang terus bertumbuh dan beberapa kali
+
+4
+00:00:10,108 --> 00:00:12,121
+meletus hingga abad ke-21.
+

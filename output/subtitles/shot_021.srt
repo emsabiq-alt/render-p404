@@ -1,3 +1,16 @@
 1
-00:00:00,000 --> 00:00:09,024
-konsentrasi asam sulfat dan aerosol belerang melonjak ke tingkat tertinggi yang pernah tercatat dalam tujuh ribu tahun sejarah peradaban manusia.
+00:00:00,150 --> 00:00:03,143
+konsentrasi asam sulfat dan aerosol belerang
+
+2
+00:00:03,263 --> 00:00:06,053
+melonjak ke tingkat tertinggi yang pernah
+
+3
+00:00:06,173 --> 00:00:08,826
+tercatat dalam tujuh ribu tahun sejarah
+
+4
+00:00:08,946 --> 00:00:10,170
+peradaban manusia.
+

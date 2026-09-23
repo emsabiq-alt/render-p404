@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,884
-mereka menyusuri tebing-tebing curam dan sungai-sungai dalam di pulau lombok
+00:00:00,150 --> 00:00:03,806
+mereka menyusuri tebing-tebing curam dan sungai-sungai
 
 2
-00:00:04,884 --> 00:00:09,768
-mengumpulkan sampel endapan abu batu apung yang tebalnya mencapai puluhan meter.
+00:00:03,926 --> 00:00:05,348
+dalam di pulau lombok
+
+3
+00:00:05,468 --> 00:00:08,312
+mengumpulkan sampel endapan abu batu apung
+
+4
+00:00:08,432 --> 00:00:10,937
+yang tebalnya mencapai puluhan meter.
+

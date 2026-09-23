@@ -12,7 +12,7 @@ import subprocess
 
 BASE_DIR = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 FLOW_DIR = os.path.join(BASE_DIR, "output/flow_images")
-AUDIO_DIR = os.path.join(BASE_DIR, "output/audio")
+AUDIO_DIR = os.path.join(BASE_DIR, "output/audio_supertonic")
 SUB_DIR = os.path.join(BASE_DIR, "output/subtitles")
 OUT_CLIPS_DIR = os.path.join(BASE_DIR, "output/rendered_clips")
 FONTS_DIR = os.path.join(BASE_DIR, "assets/fonts")
@@ -34,7 +34,7 @@ def get_duration(path):
 def render_single_shot(shot_id_num):
     shot_str = f"shot_{shot_id_num:03d}"
     img_p = os.path.join(FLOW_DIR, f"{shot_str}.png")
-    audio_p = os.path.join(AUDIO_DIR, f"{shot_str}.mp3")
+    audio_p = os.path.join(AUDIO_DIR, f"{shot_str}.wav")
     out_mp4 = os.path.join(OUT_CLIPS_DIR, f"{shot_str}.mp4")
 
     if not os.path.exists(img_p) or not os.path.exists(audio_p):

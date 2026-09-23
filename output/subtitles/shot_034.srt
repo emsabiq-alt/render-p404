@@ -1,7 +1,20 @@
 1
-00:00:00,000 --> 00:00:06,024
-berdasarkan rekonstruksi geologi dan catatan babad lombok
+00:00:00,150 --> 00:00:04,014
+berdasarkan rekonstruksi geologi dan catatan babad
 
 2
-00:00:06,024 --> 00:00:12,048
-letusan samalas 1257 dimulai pada suatu siang yang panas dengan suara gemuruh yang menggetarkan dada.
+00:00:04,134 --> 00:00:04,598
+lombok
+
+3
+00:00:04,718 --> 00:00:07,732
+letusan samalas 1257 dimulai pada suatu
+
+4
+00:00:07,852 --> 00:00:10,711
+siang yang panas dengan suara gemuruh
+
+5
+00:00:10,831 --> 00:00:12,608
+yang menggetarkan dada.
+

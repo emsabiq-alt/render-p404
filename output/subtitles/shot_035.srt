@@ -1,3 +1,16 @@
 1
-00:00:00,000 --> 00:00:11,640
-fase pertama adalah letusan freatomagmatik dahsyat ketika air tanah bertekanan tinggi bertemu langsung dengan kantung magma cair bersuhu lebih dari seribu derajat celcius.
+00:00:00,150 --> 00:00:03,460
+fase pertama adalah letusan freatomagmatik dahsyat
+
+2
+00:00:03,580 --> 00:00:06,361
+ketika air tanah bertekanan tinggi bertemu
+
+3
+00:00:06,481 --> 00:00:09,262
+langsung dengan kantung magma cair bersuhu
+
+4
+00:00:09,382 --> 00:00:11,633
+lebih dari seribu derajat celcius.
+

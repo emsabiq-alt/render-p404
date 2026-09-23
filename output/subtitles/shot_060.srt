@@ -1,3 +1,20 @@
 1
-00:00:00,000 --> 00:00:10,800
-mereka adalah korban-korban tak berdosa yang mati kelaparan akibat letusan sebuah gunung purba di seberang samudra yang namanya bahkan tak pernah mereka dengar seumur hidup.
+00:00:00,150 --> 00:00:03,051
+mereka adalah korban-korban tak berdosa yang
+
+2
+00:00:03,171 --> 00:00:06,006
+mati kelaparan akibat letusan sebuah gunung
+
+3
+00:00:06,126 --> 00:00:08,632
+purba di seberang samudra yang namanya
+
+4
+00:00:08,752 --> 00:00:11,257
+bahkan tak pernah mereka dengar seumur
+
+5
+00:00:11,377 --> 00:00:11,773
+hidup.
+

@@ -1,11 +1,20 @@
 1
-00:00:00,000 --> 00:00:04,440
-krisis pangan ini bahkan mengguncang stabilitas politik kerajaan
+00:00:00,150 --> 00:00:04,063
+krisis pangan ini bahkan mengguncang stabilitas
 
 2
-00:00:04,440 --> 00:00:08,880
-para bangsawan inggris memberontak melawan raja henry iii
+00:00:04,183 --> 00:00:08,512
+politik kerajaan: para bangsawan inggris memberontak
 
 3
-00:00:08,880 --> 00:00:13,320
-memaksakan lahirnya konstitusi oxford pada tahun 1258.
+00:00:08,632 --> 00:00:10,464
+melawan raja henry iii
+
+4
+00:00:10,584 --> 00:00:14,580
+memaksakan lahirnya konstitusi oxford pada tahun
+
+5
+00:00:14,700 --> 00:00:15,116
+1258.
+

@@ -1,11 +1,12 @@
 1
-00:00:00,000 --> 00:00:02,656
+00:00:00,150 --> 00:00:02,337
 di atas kota yang damai itu
 
 2
-00:00:02,656 --> 00:00:05,312
-menjulang sosok raksasa yang mendominasi seluruh cakrawala pulau
+00:00:02,457 --> 00:00:06,344
+menjulang sosok raksasa yang mendominasi seluruh
 
 3
-00:00:05,312 --> 00:00:07,968
-gunung samalas.
+00:00:06,464 --> 00:00:09,056
+cakrawala pulau: gunung samalas.
+

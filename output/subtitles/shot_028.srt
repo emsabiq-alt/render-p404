@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:05,940
-sang pelaku adalah buronan geologi paling misterius di dunia
+00:00:00,150 --> 00:00:03,205
+sang pelaku adalah buronan geologi paling
 
 2
-00:00:05,940 --> 00:00:11,880
-sebuah gunung tak bernama yang telah membekukan bumi tetapi berhasil menyembunyikan jejaknya selama 750 tahun.
+00:00:03,325 --> 00:00:06,603
+misterius di dunia—sebuah gunung tak bernama
+
+3
+00:00:06,723 --> 00:00:09,852
+yang telah membekukan bumi tetapi berhasil
+
+4
+00:00:09,972 --> 00:00:13,026
+menyembunyikan jejaknya selama 750 tahun.
+

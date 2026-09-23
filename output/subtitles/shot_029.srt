@@ -1,3 +1,16 @@
 1
-00:00:00,000 --> 00:00:11,088
-titik terang baru mulai muncul ketika sekelompok vulkanolog internasional pimpinan profesor franck lavigne dari universitas paris 1 pantheon-sorbonne datang ke indonesia.
+00:00:00,150 --> 00:00:02,753
+titik terang baru mulai muncul ketika
+
+2
+00:00:02,873 --> 00:00:07,095
+sekelompok vulkanolog internasional pimpinan profesor franck
+
+3
+00:00:07,215 --> 00:00:10,733
+lavigne dari universitas paris 1 pantheon-sorbonne
+
+4
+00:00:10,853 --> 00:00:12,260
+datang ke indonesia.
+

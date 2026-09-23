@@ -1,7 +1,20 @@
 1
-00:00:00,000 --> 00:00:05,700
-di puncak stratosfer tiang abu itu mengembang menjadi awan payung raksasa selebar ratusan kilometer yang menghalangi seluruh sinar matahari
+00:00:00,150 --> 00:00:01,527
+di puncak stratosfer
 
 2
-00:00:05,700 --> 00:00:11,400
+00:00:01,647 --> 00:00:04,194
+tiang abu itu mengembang menjadi awan
+
+3
+00:00:04,314 --> 00:00:07,411
+payung raksasa selebar ratusan kilometer yang
+
+4
+00:00:07,531 --> 00:00:09,872
+menghalangi seluruh sinar matahari
+
+5
+00:00:09,992 --> 00:00:12,539
 mematikan siang menjadi malam gulita.
+

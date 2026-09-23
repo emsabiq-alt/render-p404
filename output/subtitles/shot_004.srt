@@ -1,7 +1,20 @@
 1
-00:00:00,000 --> 00:00:05,136
-ini adalah baris tembang puisi dari babad lombok
+00:00:00,150 --> 00:00:02,509
+ini adalah baris tembang puisi dari
 
 2
-00:00:05,136 --> 00:00:10,272
-sebuah naskah sakral daun lontar kuno yang ditulis dengan tangan gemetar oleh para pujangga sasak yang selamat.
+00:00:02,629 --> 00:00:03,438
+babad lombok
+
+3
+00:00:03,558 --> 00:00:06,052
+sebuah naskah sakral daun lontar kuno
+
+4
+00:00:06,172 --> 00:00:08,801
+yang ditulis dengan tangan gemetar oleh
+
+5
+00:00:08,921 --> 00:00:11,146
+para pujangga sasak yang selamat.
+

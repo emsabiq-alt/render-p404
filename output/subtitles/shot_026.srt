@@ -1,11 +1,20 @@
 1
-00:00:00,000 --> 00:00:03,928
-tersangka awal bermunculan para ahli sempat menuduh gunung quilotoa di pegunungan andes ekuador
+00:00:00,150 --> 00:00:03,392
+tersangka awal bermunculan: para ahli sempat
 
 2
-00:00:03,928 --> 00:00:07,856
-gunung okataina di selandia baru
+00:00:03,512 --> 00:00:06,681
+menuduh gunung quilotoa di pegunungan andes
 
 3
-00:00:07,856 --> 00:00:11,784
+00:00:06,801 --> 00:00:07,316
+ekuador
+
+4
+00:00:07,436 --> 00:00:09,794
+gunung okataina di selandia baru
+
+5
+00:00:09,914 --> 00:00:12,051
 hingga el chichon di meksiko.
+

@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:05,220
-ratusan sambaran kilat vulkanik bercabang-cabang menyambar di tengah badai debu
+00:00:00,150 --> 00:00:04,105
+ratusan sambaran kilat vulkanik bercabang-cabang menyambar
 
 2
-00:00:05,220 --> 00:00:10,440
-dipicu oleh gesekan elektrostatik miliaran partikel abu silika yang berbenturan.
+00:00:04,225 --> 00:00:05,589
+di tengah badai debu
+
+3
+00:00:05,709 --> 00:00:09,186
+dipicu oleh gesekan elektrostatik miliaran partikel
+
+4
+00:00:09,306 --> 00:00:11,215
+abu silika yang berbenturan.
+

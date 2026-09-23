@@ -1,7 +1,20 @@
 1
-00:00:00,000 --> 00:00:06,972
-pada dekade 1990-an para arkeolog di spitalfields london menemukan bukti nyata dari kengerian ini
+00:00:00,150 --> 00:00:01,673
+pada dekade 1990-an
 
 2
-00:00:06,972 --> 00:00:13,944
-kuburan massal berisi ribuan kerangka manusia abad ke-13 yang ditumpuk tergesa-gesa.
+00:00:01,793 --> 00:00:05,480
+para arkeolog di spitalfields london menemukan
+
+3
+00:00:05,600 --> 00:00:08,726
+bukti nyata dari kengerian ini: kuburan
+
+4
+00:00:08,846 --> 00:00:12,212
+massal berisi ribuan kerangka manusia abad
+
+5
+00:00:12,332 --> 00:00:14,977
+ke-13 yang ditumpuk tergesa-gesa.
+

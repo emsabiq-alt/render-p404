@@ -1,11 +1,20 @@
 1
-00:00:00,000 --> 00:00:04,176
-fakta bahwa jejak sulfat ini ditemukan terkubur tebal di kedua kutub sekaligus
+00:00:00,150 --> 00:00:02,811
+fakta bahwa jejak sulfat ini ditemukan
 
 2
-00:00:04,176 --> 00:00:08,352
-kutub utara dan kutub selatan
+00:00:02,931 --> 00:00:06,083
+terkubur tebal di kedua kutub sekaligus—kutub
 
 3
-00:00:08,352 --> 00:00:12,528
-menandakan bahwa letusan ini pasti terjadi di dekat garis khatulistiwa.
+00:00:06,203 --> 00:00:09,565
+utara dan kutub selatan—menandakan bahwa letusan
+
+4
+00:00:09,685 --> 00:00:11,926
+ini pasti terjadi di dekat garis
+
+5
+00:00:12,046 --> 00:00:12,957
+khatulistiwa.
+

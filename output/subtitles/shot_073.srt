@@ -1,7 +1,16 @@
 1
-00:00:00,000 --> 00:00:04,968
-endapan abu dan batu apung setebal puluhan meter kini telah melapuk menjadi tanah andosol yang sangat subur
+00:00:00,150 --> 00:00:02,436
+endapan abu dan batu apung setebal
 
 2
-00:00:04,968 --> 00:00:09,936
+00:00:02,556 --> 00:00:05,244
+puluhan meter kini telah melapuk menjadi
+
+3
+00:00:05,364 --> 00:00:07,448
+tanah andosol yang sangat subur
+
+4
+00:00:07,568 --> 00:00:10,728
 menopang kehidupan pertanian masyarakat lombok.
+

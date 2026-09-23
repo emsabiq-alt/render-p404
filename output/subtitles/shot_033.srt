@@ -1,7 +1,16 @@
 1
-00:00:00,150 --> 00:00:05,664
-klimaks petaka geologis itu dimulai siang hari tahun 1257
+00:00:00,150 --> 00:00:03,434
+klimaks petaka geologis itu dimulai pada
 
 2
-00:00:05,664 --> 00:00:10,288
-ketika dapur magma samalas mencapai titik jenuhnya
+00:00:03,554 --> 00:00:06,592
+suatu siang di pertengahan tahun 1257
+
+3
+00:00:06,712 --> 00:00:10,078
+ketika dapur magma samalas mencapai titik
+
+4
+00:00:10,198 --> 00:00:10,937
+jenuhnya.
+
