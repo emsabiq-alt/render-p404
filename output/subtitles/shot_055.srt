@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:00,885
+00:00:00,150 --> 00:00:00,870
 di inggris
 
 2
-00:00:01,005 --> 00:00:04,609
+00:00:00,990 --> 00:00:04,519
 seorang biarawan benediktin bernama matthew paris
 
 3
-00:00:04,729 --> 00:00:07,670
+00:00:04,639 --> 00:00:07,520
 di biara st. albans menuliskan kesaksian
 
 4
-00:00:07,790 --> 00:00:10,658
+00:00:07,640 --> 00:00:10,449
 yang memilukan dalam catatan hariannya:
 

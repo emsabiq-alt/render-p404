@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,741
+00:00:00,150 --> 00:00:02,681
 samalas meletus di sebuah pulau kecil
 
 2
-00:00:02,861 --> 00:00:03,701
+00:00:02,801 --> 00:00:03,622
 di nusantara
 
 3
-00:00:03,821 --> 00:00:06,972
+00:00:03,742 --> 00:00:06,820
 namun gempa iklimnya menjalar dan melumpuhkan
 
 4
-00:00:07,092 --> 00:00:09,543
+00:00:06,940 --> 00:00:09,334
 peradaban di seluruh penjuru dunia.
 

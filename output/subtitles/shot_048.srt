@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,041
+00:00:00,150 --> 00:00:02,981
 setelah mengeluarkan lebih dari empat puluh
 
 2
-00:00:03,161 --> 00:00:05,917
+00:00:03,101 --> 00:00:05,801
 kilometer kubik material magma ke angkasa
 
 3
-00:00:06,037 --> 00:00:08,322
+00:00:05,921 --> 00:00:08,160
 ruang dapur magma raksasa di bawah
 
 4
-00:00:08,442 --> 00:00:10,728
+00:00:08,280 --> 00:00:10,519
 samalas akhirnya kosong melompong.
 

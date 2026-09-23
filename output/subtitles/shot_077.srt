@@ -1,24 +1,24 @@
 1
-00:00:00,150 --> 00:00:03,285
+00:00:00,150 --> 00:00:03,326
 gunung samalas telah runtuh dan melahirkan
 
 2
-00:00:03,405 --> 00:00:04,823
+00:00:03,446 --> 00:00:04,883
 kaldera segara anak
 
 3
-00:00:04,943 --> 00:00:07,780
+00:00:05,003 --> 00:00:07,877
 namun jejak letusannya pada tahun 1257
 
 4
-00:00:07,900 --> 00:00:11,034
+00:00:07,997 --> 00:00:11,173
 akan selamanya tercatat sebagai salah satu
 
 5
-00:00:11,154 --> 00:00:14,513
+00:00:11,293 --> 00:00:14,696
 peristiwa paling dahsyat yang pernah mengubah
 
 6
-00:00:14,633 --> 00:00:16,649
+00:00:14,816 --> 00:00:16,858
 jalannya peradaban manusia.
 

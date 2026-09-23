@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,370
+00:00:00,150 --> 00:00:02,324
 tetapi tak seorang pun menyangka
 
 2
-00:00:02,490 --> 00:00:05,889
+00:00:02,444 --> 00:00:05,774
 bahwa pertanda-pertanda alam itu bukanlah sekadar
 
 3
-00:00:06,009 --> 00:00:06,841
+00:00:05,894 --> 00:00:06,710
 amukan biasa
 
 4
-00:00:07,141 --> 00:00:10,470
+00:00:07,010 --> 00:00:10,271
 melainkan lonceng kematian bagi seluruh kerajaan
 
 5
-00:00:10,590 --> 00:00:11,076
+00:00:10,391 --> 00:00:10,867
 mereka.
 

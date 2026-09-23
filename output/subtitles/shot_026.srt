@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:03,392
+00:00:00,150 --> 00:00:03,313
 tersangka awal bermunculan: para ahli sempat
 
 2
-00:00:03,512 --> 00:00:06,681
+00:00:03,433 --> 00:00:06,524
 menuduh gunung quilotoa di pegunungan andes
 
 3
-00:00:06,801 --> 00:00:07,316
+00:00:06,644 --> 00:00:07,147
 ekuador
 
 4
-00:00:07,436 --> 00:00:09,794
+00:00:07,267 --> 00:00:09,568
 gunung okataina di selandia baru
 
 5
-00:00:09,914 --> 00:00:12,051
+00:00:09,688 --> 00:00:11,773
 hingga el chichon di meksiko.
 

@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:03,051
+00:00:00,150 --> 00:00:02,997
 mereka adalah korban-korban tak berdosa yang
 
 2
-00:00:03,171 --> 00:00:06,006
+00:00:03,117 --> 00:00:05,899
 mati kelaparan akibat letusan sebuah gunung
 
 3
-00:00:06,126 --> 00:00:08,632
+00:00:06,019 --> 00:00:08,477
 purba di seberang samudra yang namanya
 
 4
-00:00:08,752 --> 00:00:11,257
+00:00:08,597 --> 00:00:11,055
 bahkan tak pernah mereka dengar seumur
 
 5
-00:00:11,377 --> 00:00:11,773
+00:00:11,175 --> 00:00:11,564
 hidup.
 

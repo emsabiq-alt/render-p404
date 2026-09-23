@@ -1,20 +1,28 @@
 1
-00:00:00,150 --> 00:00:03,670
-segara anak—yang berarti 'anak lautan'—berdiri tenang
+00:00:00,150 --> 00:00:00,856
+segara anak
 
 2
-00:00:03,790 --> 00:00:05,650
-di ketinggian dua ribu meter
+00:00:00,976 --> 00:00:02,644
+yang berarti 'anak lautan'
 
 3
-00:00:05,770 --> 00:00:08,294
-menjadi tempat suci di mana masyarakat
+00:00:02,764 --> 00:00:05,138
+berdiri tenang di ketinggian dua ribu
 
 4
-00:00:08,414 --> 00:00:10,473
-sasak dan bali melarung doa dan
+00:00:05,258 --> 00:00:05,579
+meter
 
 5
-00:00:10,593 --> 00:00:12,121
+00:00:05,699 --> 00:00:08,137
+menjadi tempat suci di mana masyarakat
+
+6
+00:00:08,257 --> 00:00:10,246
+sasak dan bali melarung doa dan
+
+7
+00:00:10,366 --> 00:00:11,842
 sesaji hingga hari ini.
 

@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,434
+00:00:00,150 --> 00:00:03,456
 klimaks petaka geologis itu dimulai pada
 
 2
-00:00:03,554 --> 00:00:06,592
+00:00:03,576 --> 00:00:06,634
 suatu siang di pertengahan tahun 1257
 
 3
-00:00:06,712 --> 00:00:10,078
+00:00:06,754 --> 00:00:10,142
 ketika dapur magma samalas mencapai titik
 
 4
-00:00:10,198 --> 00:00:10,937
+00:00:10,262 --> 00:00:11,006
 jenuhnya.
 

@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,111
+00:00:00,150 --> 00:00:02,064
 namun di balik kesuburan itu
 
 2
-00:00:02,231 --> 00:00:05,383
+00:00:02,184 --> 00:00:05,261
 peradaban kuno pamatan masih bersemayam dalam
 
 3
-00:00:05,503 --> 00:00:08,514
+00:00:05,381 --> 00:00:08,320
 keheningan geologis di bawah lapisan batuan
 
 4
-00:00:08,634 --> 00:00:09,265
+00:00:08,440 --> 00:00:09,056
 vulkanik.
 

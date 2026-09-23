@@ -1,24 +1,24 @@
 1
-00:00:00,150 --> 00:00:02,519
+00:00:00,150 --> 00:00:02,467
 sebanyak empat puluh juta ton sulfur
 
 2
-00:00:02,639 --> 00:00:05,665
+00:00:02,587 --> 00:00:05,547
 dioksida yang terlontar ke stratosfer bereaksi
 
 3
-00:00:05,785 --> 00:00:06,706
+00:00:05,667 --> 00:00:06,568
 dengan uap air
 
 4
-00:00:06,826 --> 00:00:09,655
+00:00:06,688 --> 00:00:09,456
 membentuk selubung kabut asam sulfat global
 
 5
-00:00:09,775 --> 00:00:12,539
+00:00:09,576 --> 00:00:12,279
 yang memantulkan sinar matahari kembali ke
 
 6
-00:00:12,659 --> 00:00:13,514
+00:00:12,399 --> 00:00:13,235
 luar angkasa.
 

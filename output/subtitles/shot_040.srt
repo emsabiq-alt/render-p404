@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:04,105
+00:00:00,150 --> 00:00:04,028
 ratusan sambaran kilat vulkanik bercabang-cabang menyambar
 
 2
-00:00:04,225 --> 00:00:05,589
+00:00:04,148 --> 00:00:05,485
 di tengah badai debu
 
 3
-00:00:05,709 --> 00:00:09,186
+00:00:05,605 --> 00:00:09,014
 dipicu oleh gesekan elektrostatik miliaran partikel
 
 4
-00:00:09,306 --> 00:00:11,215
+00:00:09,134 --> 00:00:11,006
 abu silika yang berbenturan.
 

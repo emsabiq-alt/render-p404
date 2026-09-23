@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:01,527
+00:00:00,150 --> 00:00:01,503
 di puncak stratosfer
 
 2
-00:00:01,647 --> 00:00:04,194
+00:00:01,623 --> 00:00:04,125
 tiang abu itu mengembang menjadi awan
 
 3
-00:00:04,314 --> 00:00:07,411
+00:00:04,245 --> 00:00:07,288
 payung raksasa selebar ratusan kilometer yang
 
 4
-00:00:07,531 --> 00:00:09,872
+00:00:07,408 --> 00:00:09,708
 menghalangi seluruh sinar matahari
 
 5
-00:00:09,992 --> 00:00:12,539
+00:00:09,828 --> 00:00:12,330
 mematikan siang menjadi malam gulita.
 

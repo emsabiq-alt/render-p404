@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,524
+00:00:00,150 --> 00:00:02,480
 sebab hanya letusan raksasa di zona
 
 2
-00:00:02,644 --> 00:00:05,968
+00:00:02,600 --> 00:00:05,862
 tropis khatulistiwalah yang mampu menginjeksi gas
 
 3
-00:00:06,088 --> 00:00:08,937
+00:00:05,982 --> 00:00:08,778
 vulkanik ke sirkulasi atmosfer hadley yang
 
 4
-00:00:09,057 --> 00:00:11,703
+00:00:08,898 --> 00:00:11,494
 menyebarkannya ke seluruh penjuru bumi.
 

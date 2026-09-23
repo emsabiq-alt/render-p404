@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,172
+00:00:00,150 --> 00:00:02,121
 selama tujuh hari tujuh malam
 
 2
-00:00:02,292 --> 00:00:03,198
+00:00:02,241 --> 00:00:03,125
 matahari mati
 
 3
-00:00:03,498 --> 00:00:06,705
+00:00:03,425 --> 00:00:06,552
 daratan lombok tenggelam dalam kegelapan total
 
 4
-00:00:06,825 --> 00:00:09,056
+00:00:06,672 --> 00:00:08,847
 yang pekat dan menyesakkan dada.
 

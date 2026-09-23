@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,674
+00:00:00,150 --> 00:00:02,607
 batu-batu apung pijar dan bom vulkanik
 
 2
-00:00:02,794 --> 00:00:06,116
+00:00:02,727 --> 00:00:05,961
 sebesar rumah terlontar setinggi puluhan kilometer
 
 3
-00:00:06,236 --> 00:00:09,757
+00:00:06,081 --> 00:00:09,508
 lalu menghujani lereng-lereng gunung dan perkampungan
 
 4
-00:00:09,877 --> 00:00:11,006
+00:00:09,628 --> 00:00:10,728
 warga tanpa jeda.
 

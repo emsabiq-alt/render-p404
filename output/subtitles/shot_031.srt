@@ -1,24 +1,24 @@
 1
-00:00:00,150 --> 00:00:03,916
+00:00:00,150 --> 00:00:03,881
 melalui penanggalan radiokarbon pada kayu-kayu pohon
 
 2
-00:00:04,036 --> 00:00:06,571
+00:00:04,001 --> 00:00:06,513
 purba yang terbakar dan terkubur di
 
 3
-00:00:06,691 --> 00:00:07,923
+00:00:06,633 --> 00:00:07,853
 bawah endapan abu
 
 4
-00:00:08,043 --> 00:00:11,809
+00:00:07,973 --> 00:00:11,704
 mereka menemukan kepastian waktu yang mencengangkan:
 
 5
-00:00:11,929 --> 00:00:14,826
+00:00:11,824 --> 00:00:14,694
 letusan itu terjadi tepat di pertengahan
 
 6
-00:00:14,946 --> 00:00:15,743
+00:00:14,814 --> 00:00:15,604
 abad ke-13.
 

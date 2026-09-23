@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,175
+00:00:00,150 --> 00:00:02,136
 bahkan di ujung timur tiongkok
 
 2
-00:00:02,295 --> 00:00:05,129
+00:00:02,256 --> 00:00:05,036
 kronik dinasti song selatan mencatat salju
 
 3
-00:00:05,249 --> 00:00:07,477
+00:00:05,156 --> 00:00:07,341
 lebat turun di tengah musim gugur
 
 4
-00:00:07,597 --> 00:00:10,364
+00:00:07,461 --> 00:00:10,175
 membekukan tanaman padi dan memicu krisis
 
 5
-00:00:10,484 --> 00:00:11,564
+00:00:10,295 --> 00:00:11,355
 pangan nasional.
 

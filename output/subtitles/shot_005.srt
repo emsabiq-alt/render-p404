@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,183
+00:00:00,150 --> 00:00:03,116
 catatan itu menjadi satu-satunya saksi mata
 
 2
-00:00:03,303 --> 00:00:05,983
+00:00:03,236 --> 00:00:05,857
 tertulis dari kiamat purba yang pernah
 
 3
-00:00:06,103 --> 00:00:09,136
+00:00:05,977 --> 00:00:08,943
 melenyapkan sebuah peradaban megah di timur
 
 4
-00:00:09,256 --> 00:00:09,961
+00:00:09,063 --> 00:00:09,752
 nusantara.
 

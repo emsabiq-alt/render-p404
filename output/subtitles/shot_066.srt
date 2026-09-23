@@ -1,12 +1,12 @@
 1
-00:00:00,150 --> 00:00:02,756
+00:00:00,150 --> 00:00:02,704
 ratusan tahun telah berlalu sejak hari
 
 2
-00:00:02,876 --> 00:00:05,001
+00:00:02,824 --> 00:00:04,907
 di mana langit bumi membeku dan
 
 3
-00:00:05,121 --> 00:00:07,384
+00:00:05,027 --> 00:00:07,245
 kerajaan pamatan lenyap terkubur.
 

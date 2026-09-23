@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,936
+00:00:00,150 --> 00:00:02,882
 sumbat batuan penutup kawah hancur lebur
 
 2
-00:00:03,056 --> 00:00:04,170
+00:00:03,002 --> 00:00:04,095
 berkeping-keping
 
 3
-00:00:04,290 --> 00:00:07,215
+00:00:04,215 --> 00:00:07,083
 membuka saluran magma utama layaknya tutup
 
 4
-00:00:07,335 --> 00:00:10,329
+00:00:07,203 --> 00:00:10,140
 botol raksasa yang terlepas dengan kekuatan
 
 5
-00:00:10,449 --> 00:00:11,494
+00:00:10,260 --> 00:00:11,285
 jutaan ton tnt.
 

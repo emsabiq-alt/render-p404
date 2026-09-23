@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,135
+00:00:00,150 --> 00:00:02,103
 tanpa penyangga di bawahnya
 
 2
-00:00:02,255 --> 00:00:04,975
+00:00:02,224 --> 00:00:04,901
 fondasi gunung tak lagi mampu menahan
 
 3
-00:00:05,095 --> 00:00:08,550
+00:00:05,021 --> 00:00:08,421
 berat bebannya sendiri. puncak samalas setinggi
 
 4
-00:00:08,670 --> 00:00:11,610
+00:00:08,541 --> 00:00:11,435
 4.200 meter runtuh secara spektakuler ke
 
 5
-00:00:11,730 --> 00:00:13,862
+00:00:11,555 --> 00:00:13,653
 dalam rongga bumi yang kosong
 

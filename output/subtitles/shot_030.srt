@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,806
+00:00:00,150 --> 00:00:03,733
 mereka menyusuri tebing-tebing curam dan sungai-sungai
 
 2
-00:00:03,926 --> 00:00:05,348
+00:00:03,853 --> 00:00:05,246
 dalam di pulau lombok
 
 3
-00:00:05,468 --> 00:00:08,312
+00:00:05,366 --> 00:00:08,153
 mengumpulkan sampel endapan abu batu apung
 
 4
-00:00:08,432 --> 00:00:10,937
+00:00:08,273 --> 00:00:10,728
 yang tebalnya mencapai puluhan meter.
 

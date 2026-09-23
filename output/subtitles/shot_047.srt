@@ -1,16 +1,20 @@
 1
-00:00:00,150 --> 00:00:03,175
+00:00:00,150 --> 00:00:03,097
 pamatan seketika bernasib persis seperti kota
 
 2
-00:00:03,295 --> 00:00:06,320
-pompeii di romawi kuno—sebuah kota metropolis
+00:00:03,217 --> 00:00:04,658
+pompeii di romawi kuno
 
 3
-00:00:06,440 --> 00:00:09,196
-makmur yang mendadak lenyap ditelan perut
+00:00:04,778 --> 00:00:07,594
+sebuah kota metropolis makmur yang mendadak
 
 4
-00:00:09,316 --> 00:00:10,728
-bumi dalam satu sore.
+00:00:07,714 --> 00:00:10,071
+lenyap ditelan perut bumi dalam satu
+
+5
+00:00:10,191 --> 00:00:10,519
+sore.
 

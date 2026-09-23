@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:01,161
+00:00:00,150 --> 00:00:01,141
 di timur tengah
 
 2
-00:00:01,281 --> 00:00:03,843
+00:00:01,261 --> 00:00:03,772
 catatan sejarah mencatat sungai nil di
 
 3
-00:00:03,963 --> 00:00:07,468
+00:00:03,892 --> 00:00:07,327
 mesir mengalami kekeringan ekstrem karena melemahnya
 
 4
-00:00:07,588 --> 00:00:10,149
+00:00:07,447 --> 00:00:09,958
 pola monsun afrika yang terganggu oleh
 
 5
-00:00:10,269 --> 00:00:11,146
+00:00:10,078 --> 00:00:10,937
 abu vulkanik.
 

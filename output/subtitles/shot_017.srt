@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,124
+00:00:00,150 --> 00:00:02,082
 selama lebih dari tujuh abad
 
 2
-00:00:02,244 --> 00:00:05,206
+00:00:02,202 --> 00:00:05,100
 peristiwa lenyapnya samalas terkubur sunyi
 
 3
-00:00:05,326 --> 00:00:08,075
+00:00:05,220 --> 00:00:07,910
 hanya hidup sebagai legenda lokal dalam
 
 4
-00:00:08,195 --> 00:00:10,240
+00:00:08,030 --> 00:00:10,031
 tembang-tembang rakyat sasak.
 
