@@ -176,7 +176,10 @@ def recent_video_jobs(projects_root=Path("D:/project"), limit=10):
     if root.exists():
         for p in root.glob("a[0-9][0-9][0-9]/project.json"):
             try:
-                jobs.append(json.loads(p.read_text(encoding="utf-8")))
+                d = json.loads(p.read_text(encoding="utf-8"))
+                if "title" in d and "pipeline" in d:
+                    d.setdefault("project_dir", str(p.parent).replace("\\", "/"))
+                    jobs.append(d)
             except Exception:
                 pass
     jobs.sort(key=lambda x: x.get("created_at", ""), reverse=True)
