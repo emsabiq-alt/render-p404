@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,081
+00:00:00,400 --> 00:00:02,276
 sebelum hari petaka itu tiba
 
 2
-00:00:02,201 --> 00:00:04,685
-lombok bukanlah pulau yang sunyi. di
+00:00:02,396 --> 00:00:04,540
+lombok bukanlah pulau yang sunyi
 
 3
-00:00:04,805 --> 00:00:06,598
-lereng utaranya yang subur
+00:00:04,660 --> 00:00:06,604
+di lereng utaranya yang subur
 
 4
-00:00:06,718 --> 00:00:09,822
-berdirilah ibu kota kerajaan bernama pamatan.
+00:00:06,724 --> 00:00:09,672
+berdirilah ibu kota kerajaan bernama pamatan
 

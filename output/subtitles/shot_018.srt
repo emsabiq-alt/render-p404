@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,086
+00:00:00,400 --> 00:00:02,265
 namun pada akhir abad ke-20
 
 2
-00:00:02,206 --> 00:00:05,145
-para ilmuwan iklim dunia menemukan sebuah
+00:00:02,385 --> 00:00:04,733
+para ilmuwan iklim dunia menemukan
 
 3
-00:00:05,265 --> 00:00:08,205
-misteri yang sangat membingungkan jauh di
+00:00:04,853 --> 00:00:07,616
+sebuah misteri yang sangat membingungkan
 
 4
-00:00:08,325 --> 00:00:09,543
-ujung kutub bumi.
+00:00:07,736 --> 00:00:09,393
+jauh di ujung kutub bumi
 

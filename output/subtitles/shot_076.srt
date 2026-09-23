@@ -1,16 +1,12 @@
 1
-00:00:00,150 --> 00:00:03,296
-penemuan keterkaitan antara naskah babad lombok
+00:00:00,400 --> 00:00:03,709
+penemuan keterkaitan antara naskah babad lombok dan
 
 2
-00:00:03,416 --> 00:00:05,692
-dan lapisan es kutub menjadi salah
+00:00:03,829 --> 00:00:06,489
+lapisan es kutub menjadi salah satu bukti
 
 3
-00:00:05,812 --> 00:00:08,623
-satu bukti paling monumental dalam sejarah
-
-4
-00:00:08,743 --> 00:00:09,613
-sains modern.
+00:00:06,609 --> 00:00:09,463
+paling monumental dalam sejarah sains modern
 

@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,631
-tubuh sang raksasa ambles sedalam satu
+00:00:00,400 --> 00:00:03,450
+tubuh sang raksasa ambles sedalam satu kilometer
 
 2
-00:00:02,751 --> 00:00:03,338
-kilometer
-
-3
-00:00:03,458 --> 00:00:06,853
+00:00:03,570 --> 00:00:06,874
 meninggalkan lubang kaldera runtuhan raksasa selebar
 
-4
-00:00:06,973 --> 00:00:09,650
-delapan setengah kali enam kilometer yang
+3
+00:00:06,994 --> 00:00:09,281
+delapan setengah kali enam kilometer
 
-5
-00:00:09,770 --> 00:00:11,076
-kita kenal hari ini.
+4
+00:00:09,401 --> 00:00:10,926
+yang kita kenal hari ini
 

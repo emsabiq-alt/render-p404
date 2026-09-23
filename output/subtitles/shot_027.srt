@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,448
-namun satu per satu tersangka itu
+00:00:00,400 --> 00:00:02,373
+namun satu per satu tersangka
 
 2
-00:00:02,568 --> 00:00:05,702
-gugur dalam uji laboratorium. komposisi kimia
+00:00:02,493 --> 00:00:04,671
+itu gugur dalam uji laboratorium
 
 3
-00:00:05,822 --> 00:00:09,026
-kaca vulkanik dari gunung-gunung tersebut sama
+00:00:04,791 --> 00:00:07,104
+komposisi kimia kaca vulkanik dari
 
 4
-00:00:09,146 --> 00:00:11,583
-sekali tidak cocok dengan sampel es
+00:00:07,224 --> 00:00:09,946
+gunung-gunung tersebut sama sekali tidak
 
 5
-00:00:11,703 --> 00:00:12,121
-kutub.
+00:00:10,066 --> 00:00:11,971
+cocok dengan sampel es kutub
 

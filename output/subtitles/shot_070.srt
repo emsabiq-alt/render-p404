@@ -1,16 +1,12 @@
 1
-00:00:00,150 --> 00:00:02,193
-dan di tengah danau yang hening
+00:00:00,400 --> 00:00:02,631
+dan di tengah danau yang hening itu
 
 2
-00:00:02,313 --> 00:00:02,577
-itu
+00:00:02,751 --> 00:00:05,109
+aktivitas magma purba kembali bangkit
 
 3
-00:00:02,697 --> 00:00:05,466
-aktivitas magma purba kembali bangkit dari
-
-4
-00:00:05,586 --> 00:00:07,036
-dasar rekahan kaldera.
+00:00:05,229 --> 00:00:06,886
+dari dasar rekahan kaldera
 

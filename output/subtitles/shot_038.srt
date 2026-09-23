@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,528
+00:00:00,400 --> 00:00:02,709
 tiang abu hitam pekat itu menembus
 
 2
-00:00:02,648 --> 00:00:06,146
+00:00:02,829 --> 00:00:06,225
 stratosfer hingga mencapai ketinggian 43 kilometer
 
 3
-00:00:06,266 --> 00:00:08,994
+00:00:06,345 --> 00:00:08,993
 empat kali lebih tinggi dari ketinggian
 
 4
-00:00:09,114 --> 00:00:11,912
-jelajah pesawat terbang modern hari ini.
+00:00:09,113 --> 00:00:11,762
+jelajah pesawat terbang modern hari ini
 

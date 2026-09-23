@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,097
-pamatan seketika bernasib persis seperti kota
+00:00:00,400 --> 00:00:02,945
+pamatan seketika bernasib persis seperti
 
 2
-00:00:03,217 --> 00:00:04,658
-pompeii di romawi kuno
+00:00:03,065 --> 00:00:04,783
+kota pompeii di romawi kuno
 
 3
-00:00:04,778 --> 00:00:07,594
-sebuah kota metropolis makmur yang mendadak
+00:00:04,903 --> 00:00:08,085
+sebuah kota metropolis makmur yang mendadak lenyap
 
 4
-00:00:07,714 --> 00:00:10,071
-lenyap ditelan perut bumi dalam satu
-
-5
-00:00:10,191 --> 00:00:10,519
-sore.
+00:00:08,205 --> 00:00:10,369
+ditelan perut bumi dalam satu sore
 

@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,786
-pelabuhan-pelabuhannya di selat alas ramai disinggahi
+00:00:00,400 --> 00:00:03,193
+pelabuhan-pelabuhannya di selat alas ramai
 
 2
-00:00:03,906 --> 00:00:06,444
-kapal layar kayu pinisi yang bertukar
+00:00:03,313 --> 00:00:05,575
+disinggahi kapal layar kayu pinisi
 
 3
-00:00:06,564 --> 00:00:07,456
-rempah-rempah
+00:00:05,695 --> 00:00:08,355
+yang bertukar rempah-rempah kayu cendana
 
 4
-00:00:07,576 --> 00:00:08,399
-kayu cendana
-
-5
-00:00:08,519 --> 00:00:09,822
-dan kerajinan emas.
+00:00:08,475 --> 00:00:09,672
+dan kerajinan emas
 

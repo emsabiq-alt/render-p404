@@ -1,24 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,904
+00:00:00,400 --> 00:00:03,075
 pamatan adalah pusat peradaban yang makmur
 
 2
-00:00:03,024 --> 00:00:04,794
+00:00:03,195 --> 00:00:04,914
 lumbung beras yang melimpah
 
 3
-00:00:04,914 --> 00:00:08,061
-dan poros perdagangan maritim yang menghubungkan
+00:00:05,034 --> 00:00:06,881
+dan poros perdagangan maritim
 
 4
-00:00:08,181 --> 00:00:08,443
-jawa
+00:00:07,001 --> 00:00:08,784
+yang menghubungkan jawa bali
 
 5
-00:00:08,563 --> 00:00:08,825
-bali
-
-6
-00:00:08,945 --> 00:00:10,519
-hingga kepulauan maluku.
+00:00:08,904 --> 00:00:10,369
+hingga kepulauan maluku
 

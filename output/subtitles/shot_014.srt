@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:01,200
-hewan-hewan liar
+00:00:00,400 --> 00:00:02,245
+hewan-hewan liar kawanan kera
 
 2
-00:00:01,320 --> 00:00:02,108
-kawanan kera
+00:00:02,365 --> 00:00:05,418
+dan burung-burung hutan berbondong-bondong turun
 
 3
-00:00:02,228 --> 00:00:06,034
-dan burung-burung hutan berbondong-bondong turun melarikan
+00:00:05,538 --> 00:00:07,383
+melarikan diri ke arah pantai
 
 4
-00:00:06,154 --> 00:00:07,401
-diri ke arah pantai
-
-5
-00:00:07,521 --> 00:00:09,752
-seolah mencium maut yang mendekat.
+00:00:07,503 --> 00:00:09,602
+seolah mencium maut yang mendekat
 

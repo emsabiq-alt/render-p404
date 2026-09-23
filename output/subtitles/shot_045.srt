@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,218
+00:00:00,400 --> 00:00:03,391
 awan piroklastik bersuhu delapan ratus derajat
 
 2
-00:00:03,338 --> 00:00:06,273
+00:00:03,511 --> 00:00:06,372
 celcius meluncur dengan kecepatan lebih dari
 
 3
-00:00:06,393 --> 00:00:08,194
+00:00:06,492 --> 00:00:08,247
 dua ratus kilometer per jam
 
 4
-00:00:08,314 --> 00:00:11,249
-menyapu segala sesuatu yang dilaluinya tanpa
-
-5
-00:00:11,369 --> 00:00:11,703
-sisa.
+00:00:08,367 --> 00:00:11,553
+menyapu segala sesuatu yang dilaluinya tanpa sisa
 

@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,069
-namun bahaya yang sesungguhnya baru saja
+00:00:00,400 --> 00:00:03,822
+namun bahaya yang sesungguhnya baru saja dimulai
 
 2
-00:00:03,189 --> 00:00:06,181
-dimulai. ketika tiang letusan setinggi 43
+00:00:03,942 --> 00:00:07,222
+ketika tiang letusan setinggi 43 kilometer itu
 
 3
-00:00:06,301 --> 00:00:09,147
-kilometer itu menjadi terlalu padat dan
+00:00:07,342 --> 00:00:09,981
+menjadi terlalu padat dan berat untuk
 
 4
-00:00:09,267 --> 00:00:11,968
-berat untuk ditopang oleh tekanan gas
-
-5
-00:00:12,088 --> 00:00:12,817
-dari bawah
+00:00:10,101 --> 00:00:12,667
+ditopang oleh tekanan gas dari bawah
 

@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,324
+00:00:00,400 --> 00:00:02,553
 tetapi tak seorang pun menyangka
 
 2
-00:00:02,444 --> 00:00:05,774
-bahwa pertanda-pertanda alam itu bukanlah sekadar
+00:00:02,673 --> 00:00:04,826
+bahwa pertanda-pertanda alam itu
 
 3
-00:00:05,894 --> 00:00:06,710
-amukan biasa
+00:00:04,946 --> 00:00:06,897
+bukanlah sekadar amukan biasa
 
 4
-00:00:07,010 --> 00:00:10,271
-melainkan lonceng kematian bagi seluruh kerajaan
-
-5
-00:00:10,391 --> 00:00:10,867
-mereka.
+00:00:07,017 --> 00:00:10,717
+melainkan lonceng kematian bagi seluruh kerajaan mereka
 

@@ -1,24 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,347
-kelaparan hebat yang melanda wilayah timur
+00:00:00,400 --> 00:00:04,071
+kelaparan hebat yang melanda wilayah timur tengah
 
 2
-00:00:03,467 --> 00:00:07,652
-tengah ini melemahkan pertahanan kekhalifahan abbasiyah
+00:00:04,191 --> 00:00:08,611
+ini melemahkan pertahanan kekhalifahan abbasiyah di baghdad
 
 3
-00:00:07,772 --> 00:00:08,533
-di baghdad
+00:00:08,731 --> 00:00:12,477
+tepat saat pasukan kavaleri mongol pimpinan hulagu
 
 4
-00:00:08,653 --> 00:00:11,926
-tepat saat pasukan kavaleri mongol pimpinan
-
-5
-00:00:12,046 --> 00:00:14,786
-hulagu khan mengepung kota pada awal
-
-6
-00:00:14,906 --> 00:00:15,743
-tahun 1258.
+00:00:12,597 --> 00:00:15,593
+khan mengepung kota pada awal tahun 1258
 

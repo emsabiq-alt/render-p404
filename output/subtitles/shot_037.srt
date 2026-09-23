@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:01,444
+00:00:00,400 --> 00:00:01,654
 dalam hitungan menit
 
 2
-00:00:01,564 --> 00:00:04,152
+00:00:01,774 --> 00:00:04,283
 kolom letusan tipe plinian melesat tegak
 
 3
-00:00:04,272 --> 00:00:07,119
+00:00:04,403 --> 00:00:07,162
 lurus ke angkasa dengan kecepatan supersonik
 
 4
-00:00:07,239 --> 00:00:09,244
-lebih dari tiga ratus meter per
-
-5
-00:00:09,364 --> 00:00:09,752
-detik.
+00:00:07,282 --> 00:00:09,602
+lebih dari tiga ratus meter per detik
 

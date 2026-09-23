@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,962
-melalui pengeboran lapisan es di greenland
+00:00:00,400 --> 00:00:02,280
+melalui pengeboran lapisan es
 
 2
-00:00:03,082 --> 00:00:03,953
-dan antartika
+00:00:02,400 --> 00:00:04,085
+di greenland dan antartika
 
 3
-00:00:04,073 --> 00:00:06,952
-para glasiolog mengambil sampel es silinder
+00:00:04,205 --> 00:00:06,408
+para glasiolog mengambil sampel es
 
 4
-00:00:07,072 --> 00:00:09,885
-yang berfungsi layaknya rekaman pita kaset
+00:00:06,528 --> 00:00:09,121
+silinder yang berfungsi layaknya rekaman
 
 5
-00:00:10,005 --> 00:00:11,076
-iklim masa lalu.
+00:00:09,241 --> 00:00:10,926
+pita kaset iklim masa lalu
 

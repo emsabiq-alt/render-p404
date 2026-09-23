@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,081
-gagal panen total melanda seantero kepulauan
+00:00:00,400 --> 00:00:03,844
+gagal panen total melanda seantero kepulauan britania
 
 2
-00:00:03,201 --> 00:00:05,998
-britania. harga roti melonjak tajam hingga
+00:00:03,964 --> 00:00:06,499
+harga roti melonjak tajam hingga ribuan
 
 3
-00:00:06,118 --> 00:00:09,182
-ribuan keluarga miskin terpaksa memakan rumput
+00:00:06,619 --> 00:00:09,414
+keluarga miskin terpaksa memakan rumput dan
 
 4
-00:00:09,302 --> 00:00:11,633
-dan kulit kayu demi bertahan hidup.
+00:00:09,534 --> 00:00:11,483
+kulit kayu demi bertahan hidup
 

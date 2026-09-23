@@ -1,3 +1,5 @@
 export/
 output/rendered_clips/
 *.log
+__pycache__/
+*.pyc

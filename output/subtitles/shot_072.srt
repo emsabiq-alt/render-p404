@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:03,835
+00:00:00,400 --> 00:00:03,991
 dinding kaldera raksasa setinggi ratusan meter
 
 2
-00:00:03,955 --> 00:00:06,758
+00:00:04,111 --> 00:00:06,843
 yang mengurung segara anak hari ini
 
 3
-00:00:06,878 --> 00:00:10,162
+00:00:06,963 --> 00:00:10,164
 menjadi saksi bisu betapa masifnya volume
 
 4
-00:00:10,282 --> 00:00:13,166
-batuan yang lenyap pada petaka 1257.
+00:00:10,284 --> 00:00:13,016
+batuan yang lenyap pada petaka 1257
 

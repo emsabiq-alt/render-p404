@@ -1,24 +1,16 @@
 1
-00:00:00,150 --> 00:00:01,585
+00:00:00,400 --> 00:00:01,815
 di daratan eropa barat
 
 2
-00:00:01,705 --> 00:00:04,446
-perancis dan jerman mengalami musim dingin
+00:00:01,935 --> 00:00:05,150
+perancis dan jerman mengalami musim dingin ekstrem
 
 3
-00:00:04,566 --> 00:00:07,763
-ekstrem yang berlangsung hingga pertengahan bulan
+00:00:05,270 --> 00:00:08,164
+yang berlangsung hingga pertengahan bulan mei
 
 4
-00:00:07,883 --> 00:00:08,144
-mei
-
-5
-00:00:08,264 --> 00:00:11,331
-membekukan sungai-sungai utama dan memicu wabah
-
-6
-00:00:11,451 --> 00:00:11,842
-tipus.
+00:00:08,284 --> 00:00:11,692
+membekukan sungai-sungai utama dan memicu wabah tipus
 

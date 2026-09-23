@@ -1,32 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,706
-ibu kota pamatan dihantam telak. dalam
+00:00:00,400 --> 00:00:02,467
+ibu kota pamatan dihantam telak
 
 2
-00:00:02,826 --> 00:00:03,768
-hitungan detik
+00:00:02,587 --> 00:00:04,454
+dalam hitungan detik seluruh
 
 3
-00:00:03,888 --> 00:00:04,830
-seluruh istana
+00:00:04,574 --> 00:00:06,641
+istana lumbung beras permukiman
 
 4
-00:00:04,950 --> 00:00:05,824
-lumbung beras
+00:00:06,761 --> 00:00:10,229
+dan ribuan penghuninya terkubur hidup-hidup di bawah
 
 5
-00:00:05,944 --> 00:00:06,617
-permukiman
-
-6
-00:00:06,737 --> 00:00:09,831
-dan ribuan penghuninya terkubur hidup-hidup di
-
-7
-00:00:09,951 --> 00:00:12,642
-bawah endapan batu apung sedalam puluhan
-
-8
-00:00:12,762 --> 00:00:13,166
-meter.
+00:00:10,349 --> 00:00:13,016
+endapan batu apung sedalam puluhan meter
 

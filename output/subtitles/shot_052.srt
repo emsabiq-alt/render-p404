@@ -1,24 +1,20 @@
 1
-00:00:00,150 --> 00:00:02,467
-sebanyak empat puluh juta ton sulfur
+00:00:00,400 --> 00:00:02,225
+sebanyak empat puluh juta ton
 
 2
-00:00:02,587 --> 00:00:05,547
-dioksida yang terlontar ke stratosfer bereaksi
+00:00:02,345 --> 00:00:04,421
+sulfur dioksida yang terlontar ke
 
 3
-00:00:05,667 --> 00:00:06,568
-dengan uap air
+00:00:04,541 --> 00:00:06,680
+stratosfer bereaksi dengan uap air
 
 4
-00:00:06,688 --> 00:00:09,456
-membentuk selubung kabut asam sulfat global
+00:00:06,800 --> 00:00:09,820
+membentuk selubung kabut asam sulfat global yang
 
 5
-00:00:09,576 --> 00:00:12,279
-yang memantulkan sinar matahari kembali ke
-
-6
-00:00:12,399 --> 00:00:13,235
-luar angkasa.
+00:00:09,940 --> 00:00:13,085
+memantulkan sinar matahari kembali ke luar angkasa
 

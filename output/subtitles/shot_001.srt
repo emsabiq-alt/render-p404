@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,197
+00:00:00,400 --> 00:00:02,411
 gunung samalas meletus mendadak
 
 2
-00:00:02,497 --> 00:00:05,535
+00:00:02,531 --> 00:00:05,516
 suaranya menggelegar dahsyat meremukkan langit
 
 3
-00:00:05,655 --> 00:00:08,297
-menumpahkan batu dan abu yang menghujani
+00:00:05,636 --> 00:00:07,193
+menumpahkan batu dan abu
 
 4
-00:00:08,417 --> 00:00:09,474
-seluruh daratan.
+00:00:07,313 --> 00:00:09,324
+yang menghujani seluruh daratan
 

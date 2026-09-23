@@ -1,16 +1,12 @@
 1
-00:00:00,150 --> 00:00:00,870
-di inggris
+00:00:00,400 --> 00:00:04,540
+di inggris seorang biarawan benediktin bernama matthew paris
 
 2
-00:00:00,990 --> 00:00:04,519
-seorang biarawan benediktin bernama matthew paris
+00:00:04,660 --> 00:00:07,557
+di biara saint albans menuliskan kesaksian
 
 3
-00:00:04,639 --> 00:00:07,520
-di biara st. albans menuliskan kesaksian
-
-4
-00:00:07,640 --> 00:00:10,449
-yang memilukan dalam catatan hariannya:
+00:00:07,677 --> 00:00:10,299
+yang memilukan dalam catatan hariannya
 

@@ -1,16 +1,12 @@
 1
-00:00:00,150 --> 00:00:03,036
+00:00:00,400 --> 00:00:03,210
 namun selama lebih dari tiga dekade
 
 2
-00:00:03,156 --> 00:00:06,536
-identitas gunung yang memicu kiamat iklim
+00:00:03,330 --> 00:00:07,103
+identitas gunung yang memicu kiamat iklim tahun
 
 3
-00:00:06,656 --> 00:00:09,706
-tahun 1258 tetap menjadi misteri yang
-
-4
-00:00:09,826 --> 00:00:11,146
-tak terpecahkan.
+00:00:07,223 --> 00:00:10,996
+1258 tetap menjadi misteri yang tak terpecahkan
 

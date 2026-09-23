@@ -1,20 +1,16 @@
 1
-00:00:00,150 --> 00:00:04,106
-lonjakan racun vulkanik ini bahkan delapan
+00:00:00,400 --> 00:00:04,743
+lonjakan racun vulkanik ini bahkan delapan kali
 
 2
-00:00:04,226 --> 00:00:07,994
-kali lebih besar daripada letusan gunung
+00:00:04,863 --> 00:00:09,391
+lebih besar daripada letusan gunung krakatau 1883
 
 3
-00:00:08,114 --> 00:00:09,339
-krakatau 1883
+00:00:09,511 --> 00:00:12,098
+dan dua kali lipat melampaui
 
 4
-00:00:09,459 --> 00:00:13,227
-dan dua kali lipat melampaui kedahsyatan
-
-5
-00:00:13,347 --> 00:00:15,325
-letusan tambora 1815.
+00:00:12,218 --> 00:00:15,175
+kedahsyatan letusan tambora 1815
 

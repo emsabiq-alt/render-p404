@@ -1,20 +1,20 @@
 1
-00:00:00,150 --> 00:00:03,176
-sang pelaku adalah buronan geologi paling
+00:00:00,400 --> 00:00:02,843
+sang pelaku adalah buronan geologi
 
 2
-00:00:03,296 --> 00:00:04,625
-misterius di dunia
+00:00:02,963 --> 00:00:04,759
+paling misterius di dunia
 
 3
-00:00:04,745 --> 00:00:07,402
-sebuah gunung tak bernama yang telah
+00:00:04,879 --> 00:00:07,034
+sebuah gunung tak bernama yang
 
 4
-00:00:07,522 --> 00:00:11,582
-membekukan bumi tetapi berhasil menyembunyikan jejaknya
+00:00:07,154 --> 00:00:09,813
+telah membekukan bumi tetapi berhasil
 
 5
-00:00:11,702 --> 00:00:12,957
-selama 750 tahun.
+00:00:09,933 --> 00:00:12,807
+menyembunyikan jejaknya selama 750 tahun
 

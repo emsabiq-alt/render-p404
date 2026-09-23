@@ -1,16 +1,12 @@
 1
-00:00:00,150 --> 00:00:03,112
+00:00:00,400 --> 00:00:03,261
 rumah-rumah roboh dan tersapu banjir lumpur
 
 2
-00:00:03,232 --> 00:00:05,436
+00:00:03,381 --> 00:00:05,510
 kerajaan pamatan lenyap terkubur
 
 3
-00:00:05,556 --> 00:00:08,105
-dan ribuan jiwa hanyut ditelan amukan
-
-4
-00:00:08,225 --> 00:00:08,707
-lautan.
+00:00:05,630 --> 00:00:08,557
+dan ribuan jiwa hanyut ditelan amukan lautan
 

@@ -1,16 +1,16 @@
 1
-00:00:00,150 --> 00:00:02,554
-namun di kedalaman lima kilometer di
+00:00:00,400 --> 00:00:02,518
+namun di kedalaman lima kilometer
 
 2
-00:00:02,674 --> 00:00:03,810
-bawah kaki mereka
+00:00:02,638 --> 00:00:03,922
+di bawah kaki mereka
 
 3
-00:00:03,930 --> 00:00:06,868
+00:00:04,042 --> 00:00:06,866
 sebuah bom waktu raksasa sedang mengumpulkan
 
 4
-00:00:06,988 --> 00:00:09,125
-daya ledak yang tak tertandingi.
+00:00:06,986 --> 00:00:08,975
+daya ledak yang tak tertandingi
 
